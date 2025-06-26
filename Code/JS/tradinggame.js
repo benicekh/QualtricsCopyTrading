@@ -1008,7 +1008,7 @@ const nextPhase = function () {
         const scaleFactor = 1000;
 
         const { E_list, P_list, increase_probs, s_obs_list } =
-          generateEstimationLists(DATA.rounds);
+          generateEstimationLists(DATA);
         const realData = [];
         for (let i = 0; i < E_list.length; i++) {
           const E = E_list[i];
@@ -1368,20 +1368,30 @@ function generateEstimationLists(DATA) {
   const increase_probs = [];
   const s_obs_list = [];
 
-  for (let key in DATA.rounds) {
-    const round = DATA.rounds[key];
-    const roundIndex = parseInt(key, 10);
+  for (let i = 0; i < DATA.rounds.length; i++) {
+    const round = DATA.rounds[i];
 
     // Skip the first 5 rounds
-    if (roundIndex <= 4) continue;
+    if (i <= 4) continue;
 
     // Skip rounds where r == 40
-    if (round.r === 50) continue;
+    if (round.r <= 9 || round.r === 50) continue;
 
     const a = round.a;
     const p = round.p;
     const c = round.c;
     const prob = round.prob;
+
+    if (
+      typeof a !== "number" ||
+      typeof p !== "number" ||
+      typeof c !== "number" ||
+      typeof prob !== "number" ||
+      isNaN(a * p + c)
+    ) {
+      console.warn("Skipping invalid round at index", i, round);
+      continue;
+    }
 
     const E = a * p + c;
 
