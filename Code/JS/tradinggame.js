@@ -105,9 +105,9 @@ let maxPhases;
 const randompath = 0;
 
 //// Starting Round data
-
 var roundDataStart = {
   price: 250, //Price of the asset
+  prob: 0.5, // Probability of being in the good state
   cash: 2500, //Cash amount
   asset: 0, // assets held
   round: 0, // current round
@@ -125,9 +125,9 @@ var roundDataPersistent = {
 };
 
 //// Round data\
-
 var roundData = {
   price: roundDataStart.price, //Price of the asset
+  prob: roundDataStart.prob, //Probability of being in the good state
   cash: roundDataStart.cash, //Cash amount
   asset: roundDataStart.asset, // assets held
   round: roundDataStart.round, // current round
