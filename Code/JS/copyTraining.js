@@ -1,4 +1,5 @@
-const dataTraining = {
+window.dataTraining = {};
+dataTraining = {
   stage_0: {
     round_0: {
       rank_1: {
