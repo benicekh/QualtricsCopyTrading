@@ -223,6 +223,12 @@ const pathPicker = function () {
   const isCRRA = treatment == 1;
   const paths = isCRRA ? pricePathsCRRA : pricePaths;
   const keys = Object.keys(paths);
+
+  if (keys.length === 0) {
+    console.warn("No paths left in the selected dictionary");
+    return null;
+  }
+
   const num = randompath === 1 ? getRandomInt(0, keys.length - 1) : 0;
   const pathKey = keys[num];
 
@@ -230,13 +236,14 @@ const pathPicker = function () {
   const pathProb = calculateIncreaseProbs(pathPrice);
   const pathVersion = pathKey;
 
-  console.log("path:", pathKey);
   delete paths[pathKey];
+
+  console.log("path:", pathKey);
   console.log("pricePaths:", paths);
   console.log("Current Path:", pathPrice);
   console.log("Current Prob:", pathProb);
 
-  return pathPrice;
+  return { pathPrice, pathProb, pathVersion };
 };
 
 var randomProperty = function (obj) {
