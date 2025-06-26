@@ -36,7 +36,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -72,7 +72,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -108,7 +108,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -144,7 +144,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -180,7 +180,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -218,7 +218,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -254,7 +254,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -290,7 +290,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -326,7 +326,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -362,7 +362,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -400,7 +400,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -436,7 +436,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -472,7 +472,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -508,7 +508,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -544,7 +544,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -582,7 +582,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -618,7 +618,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.4,
@@ -654,7 +654,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.4,
@@ -690,7 +690,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.4,
@@ -726,7 +726,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -764,7 +764,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.4,
@@ -800,7 +800,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -836,7 +836,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.2,
@@ -872,7 +872,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -908,7 +908,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -946,7 +946,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.4,
@@ -982,7 +982,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -1018,7 +1018,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.2,
@@ -1054,7 +1054,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -1090,7 +1090,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -1128,7 +1128,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -1164,7 +1164,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.6,
@@ -1200,7 +1200,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.4,
@@ -1236,7 +1236,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.4,
@@ -1272,7 +1272,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -1310,7 +1310,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -1346,7 +1346,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.0,
@@ -1382,7 +1382,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -1418,7 +1418,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -1454,7 +1454,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -1492,7 +1492,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -1528,7 +1528,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.6,
@@ -1564,7 +1564,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-9.4,
@@ -1600,7 +1600,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-7.6,
@@ -1636,7 +1636,7 @@ data = {
 				GainCalc:-190.0,
 				currWealth:2310.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -1674,7 +1674,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -1710,7 +1710,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.6,
@@ -1746,7 +1746,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-9.4,
@@ -1782,7 +1782,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-7.6,
@@ -1818,7 +1818,7 @@ data = {
 				GainCalc:-190.0,
 				currWealth:2310.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -1856,7 +1856,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -1892,7 +1892,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -1928,7 +1928,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -1964,7 +1964,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.0,
@@ -2000,7 +2000,7 @@ data = {
 				GainCalc:-325.0,
 				currWealth:2175.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -2038,7 +2038,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2074,7 +2074,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -2110,7 +2110,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -2146,7 +2146,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.0,
@@ -2182,7 +2182,7 @@ data = {
 				GainCalc:-325.0,
 				currWealth:2175.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -2220,7 +2220,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2256,7 +2256,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -2292,7 +2292,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -2328,7 +2328,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.0,
@@ -2364,7 +2364,7 @@ data = {
 				GainCalc:-325.0,
 				currWealth:2175.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -2402,7 +2402,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2438,7 +2438,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -2474,7 +2474,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -2510,7 +2510,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -2546,7 +2546,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -2584,7 +2584,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2620,7 +2620,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -2656,7 +2656,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -2692,7 +2692,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -2728,7 +2728,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -2766,7 +2766,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2802,7 +2802,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -2838,7 +2838,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -2874,7 +2874,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -2910,7 +2910,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -2948,7 +2948,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -2984,7 +2984,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -3020,7 +3020,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-14.2,
@@ -3056,7 +3056,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-15.2,
@@ -3092,7 +3092,7 @@ data = {
 				GainCalc:-380.0,
 				currWealth:2120.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -3130,7 +3130,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.8,
@@ -3166,7 +3166,7 @@ data = {
 				GainCalc:-95.0,
 				currWealth:2405.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.8,
@@ -3202,7 +3202,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-12.6,
@@ -3238,7 +3238,7 @@ data = {
 				GainCalc:-315.0,
 				currWealth:2185.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.6,
@@ -3274,7 +3274,7 @@ data = {
 				GainCalc:-340.0,
 				currWealth:2160.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -3312,7 +3312,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.6,
@@ -3348,7 +3348,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-8.4,
@@ -3384,7 +3384,7 @@ data = {
 				GainCalc:-210.0,
 				currWealth:2290.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -3420,7 +3420,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.8,
@@ -3456,7 +3456,7 @@ data = {
 				GainCalc:-420.0,
 				currWealth:2080.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -3494,7 +3494,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.6,
@@ -3530,7 +3530,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-8.0,
@@ -3566,7 +3566,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-12.6,
@@ -3602,7 +3602,7 @@ data = {
 				GainCalc:-315.0,
 				currWealth:2185.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.6,
@@ -3638,7 +3638,7 @@ data = {
 				GainCalc:-340.0,
 				currWealth:2160.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -3676,7 +3676,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -3712,7 +3712,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -3748,7 +3748,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -3784,7 +3784,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.8,
@@ -3820,7 +3820,7 @@ data = {
 				GainCalc:-420.0,
 				currWealth:2080.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -3858,7 +3858,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -3894,7 +3894,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -3930,7 +3930,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -3966,7 +3966,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4002,7 +4002,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -4040,7 +4040,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4076,7 +4076,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -4112,7 +4112,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -4148,7 +4148,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4184,7 +4184,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -4222,7 +4222,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4258,7 +4258,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -4294,7 +4294,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -4330,7 +4330,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4366,7 +4366,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -4404,7 +4404,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4440,7 +4440,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -4476,7 +4476,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -4512,7 +4512,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4548,7 +4548,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -4586,7 +4586,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4622,7 +4622,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -4658,7 +4658,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -4694,7 +4694,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4730,7 +4730,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -4768,7 +4768,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4804,7 +4804,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -4840,7 +4840,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -4876,7 +4876,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -4912,7 +4912,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -4950,7 +4950,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.2,
@@ -4986,7 +4986,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-11.6,
@@ -5022,7 +5022,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.8,
@@ -5058,7 +5058,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -5094,7 +5094,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -5132,7 +5132,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-9.4,
@@ -5168,7 +5168,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-15.8,
@@ -5204,7 +5204,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.2,
@@ -5240,7 +5240,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-23.8,
@@ -5276,7 +5276,7 @@ data = {
 				GainCalc:-595.0,
 				currWealth:1905.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -5314,7 +5314,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-9.4,
@@ -5350,7 +5350,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-15.8,
@@ -5386,7 +5386,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.2,
@@ -5422,7 +5422,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-20.2,
@@ -5458,7 +5458,7 @@ data = {
 				GainCalc:-505.0,
 				currWealth:1995.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -5496,7 +5496,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-9.0,
@@ -5532,7 +5532,7 @@ data = {
 				GainCalc:-225.0,
 				currWealth:2275.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.4,
@@ -5568,7 +5568,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-19.4,
@@ -5604,7 +5604,7 @@ data = {
 				GainCalc:-485.0,
 				currWealth:2015.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -5640,7 +5640,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -5678,7 +5678,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-11.4,
@@ -5714,7 +5714,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-18.0,
@@ -5750,7 +5750,7 @@ data = {
 				GainCalc:-450.0,
 				currWealth:2050.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-23.0,
@@ -5786,7 +5786,7 @@ data = {
 				GainCalc:-575.0,
 				currWealth:1925.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-22.0,
@@ -5822,7 +5822,7 @@ data = {
 				GainCalc:-550.0,
 				currWealth:1950.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -5860,7 +5860,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-11.4,
@@ -5896,7 +5896,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-18.0,
@@ -5932,7 +5932,7 @@ data = {
 				GainCalc:-450.0,
 				currWealth:2050.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-23.0,
@@ -5968,7 +5968,7 @@ data = {
 				GainCalc:-575.0,
 				currWealth:1925.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -6004,7 +6004,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -6042,7 +6042,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-10.6,
@@ -6078,7 +6078,7 @@ data = {
 				GainCalc:-265.0,
 				currWealth:2235.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-16.2,
@@ -6114,7 +6114,7 @@ data = {
 				GainCalc:-405.0,
 				currWealth:2095.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -6150,7 +6150,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.6,
@@ -6186,7 +6186,7 @@ data = {
 				GainCalc:-415.0,
 				currWealth:2085.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -6224,7 +6224,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-7.0,
@@ -6260,7 +6260,7 @@ data = {
 				GainCalc:-175.0,
 				currWealth:2325.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -6296,7 +6296,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-16.6,
@@ -6332,7 +6332,7 @@ data = {
 				GainCalc:-415.0,
 				currWealth:2085.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-11.2,
@@ -6368,7 +6368,7 @@ data = {
 				GainCalc:-280.0,
 				currWealth:2220.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -6406,7 +6406,7 @@ data = {
 				GainCalc:-135.0,
 				currWealth:2365.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-11.8,
@@ -6442,7 +6442,7 @@ data = {
 				GainCalc:-295.0,
 				currWealth:2205.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-16.2,
@@ -6478,7 +6478,7 @@ data = {
 				GainCalc:-405.0,
 				currWealth:2095.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -6514,7 +6514,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.6,
@@ -6550,7 +6550,7 @@ data = {
 				GainCalc:-415.0,
 				currWealth:2085.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -6588,7 +6588,7 @@ data = {
 				GainCalc:-140.0,
 				currWealth:2360.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.2,
@@ -6624,7 +6624,7 @@ data = {
 				GainCalc:-305.0,
 				currWealth:2195.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-17.0,
@@ -6660,7 +6660,7 @@ data = {
 				GainCalc:-425.0,
 				currWealth:2075.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-23.0,
@@ -6696,7 +6696,7 @@ data = {
 				GainCalc:-575.0,
 				currWealth:1925.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -6732,7 +6732,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -6770,7 +6770,7 @@ data = {
 				GainCalc:-140.0,
 				currWealth:2360.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.2,
@@ -6806,7 +6806,7 @@ data = {
 				GainCalc:-305.0,
 				currWealth:2195.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-17.0,
@@ -6842,7 +6842,7 @@ data = {
 				GainCalc:-425.0,
 				currWealth:2075.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-23.0,
@@ -6878,7 +6878,7 @@ data = {
 				GainCalc:-575.0,
 				currWealth:1925.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-18.4,
@@ -6914,7 +6914,7 @@ data = {
 				GainCalc:-460.0,
 				currWealth:2040.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -6952,7 +6952,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.0,
@@ -6988,7 +6988,7 @@ data = {
 				GainCalc:-325.0,
 				currWealth:2175.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-19.4,
@@ -7024,7 +7024,7 @@ data = {
 				GainCalc:-485.0,
 				currWealth:2015.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-26.2,
@@ -7060,7 +7060,7 @@ data = {
 				GainCalc:-655.0,
 				currWealth:1845.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.6,
@@ -7096,7 +7096,7 @@ data = {
 				GainCalc:-540.0,
 				currWealth:1960.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -7134,7 +7134,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.0,
@@ -7170,7 +7170,7 @@ data = {
 				GainCalc:-325.0,
 				currWealth:2175.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-19.4,
@@ -7206,7 +7206,7 @@ data = {
 				GainCalc:-485.0,
 				currWealth:2015.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-26.2,
@@ -7242,7 +7242,7 @@ data = {
 				GainCalc:-655.0,
 				currWealth:1845.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.6,
@@ -7278,7 +7278,7 @@ data = {
 				GainCalc:-540.0,
 				currWealth:1960.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -7316,7 +7316,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.8,
@@ -7352,7 +7352,7 @@ data = {
 				GainCalc:-345.0,
 				currWealth:2155.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-21.8,
@@ -7388,7 +7388,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-29.4,
@@ -7424,7 +7424,7 @@ data = {
 				GainCalc:-735.0,
 				currWealth:1765.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-24.8,
@@ -7460,7 +7460,7 @@ data = {
 				GainCalc:-620.0,
 				currWealth:1880.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -7500,7 +7500,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -7536,7 +7536,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -7572,7 +7572,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -7608,7 +7608,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -7644,7 +7644,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -7682,7 +7682,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -7718,7 +7718,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -7754,7 +7754,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -7790,7 +7790,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -7826,7 +7826,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -7864,7 +7864,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -7900,7 +7900,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -7936,7 +7936,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -7972,7 +7972,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -8008,7 +8008,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -8046,7 +8046,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -8082,7 +8082,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -8118,7 +8118,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.0,
@@ -8154,7 +8154,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -8190,7 +8190,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -8228,7 +8228,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -8264,7 +8264,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -8300,7 +8300,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -8336,7 +8336,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.0,
@@ -8372,7 +8372,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -8410,7 +8410,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.6,
@@ -8446,7 +8446,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -8482,7 +8482,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -8518,7 +8518,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-8.0,
@@ -8554,7 +8554,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -8592,7 +8592,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.6,
@@ -8628,7 +8628,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -8664,7 +8664,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -8700,7 +8700,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-8.0,
@@ -8736,7 +8736,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -8774,7 +8774,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.4,
@@ -8810,7 +8810,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -8846,7 +8846,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -8882,7 +8882,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.4,
@@ -8918,7 +8918,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -8956,7 +8956,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.2,
@@ -8992,7 +8992,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -9028,7 +9028,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -9064,7 +9064,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-8.0,
@@ -9100,7 +9100,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -9138,7 +9138,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.2,
@@ -9174,7 +9174,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -9210,7 +9210,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -9246,7 +9246,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-11.6,
@@ -9282,7 +9282,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -9320,7 +9320,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.2,
@@ -9356,7 +9356,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -9392,7 +9392,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -9428,7 +9428,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-11.6,
@@ -9464,7 +9464,7 @@ data = {
 				GainCalc:-290.0,
 				currWealth:2210.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -9502,7 +9502,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.6,
@@ -9538,7 +9538,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.6,
@@ -9574,7 +9574,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.6,
@@ -9610,7 +9610,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.2,
@@ -9646,7 +9646,7 @@ data = {
 				GainCalc:-155.0,
 				currWealth:2345.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -9684,7 +9684,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.6,
@@ -9720,7 +9720,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.2,
@@ -9756,7 +9756,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -9792,7 +9792,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.4,
@@ -9828,7 +9828,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -9866,7 +9866,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.2,
@@ -9902,7 +9902,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.6,
@@ -9938,7 +9938,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.6,
@@ -9974,7 +9974,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.2,
@@ -10010,7 +10010,7 @@ data = {
 				GainCalc:-155.0,
 				currWealth:2345.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -10048,7 +10048,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.6,
@@ -10084,7 +10084,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -10120,7 +10120,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -10156,7 +10156,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.8,
@@ -10192,7 +10192,7 @@ data = {
 				GainCalc:-245.0,
 				currWealth:2255.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -10230,7 +10230,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.6,
@@ -10266,7 +10266,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -10302,7 +10302,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -10338,7 +10338,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.8,
@@ -10374,7 +10374,7 @@ data = {
 				GainCalc:-245.0,
 				currWealth:2255.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -10412,7 +10412,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.6,
@@ -10448,7 +10448,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -10484,7 +10484,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -10520,7 +10520,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.8,
@@ -10556,7 +10556,7 @@ data = {
 				GainCalc:-245.0,
 				currWealth:2255.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -10594,7 +10594,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.6,
@@ -10630,7 +10630,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -10666,7 +10666,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -10702,7 +10702,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.8,
@@ -10738,7 +10738,7 @@ data = {
 				GainCalc:-245.0,
 				currWealth:2255.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -10776,7 +10776,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.0,
@@ -10812,7 +10812,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.8,
@@ -10848,7 +10848,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.8,
@@ -10884,7 +10884,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.6,
@@ -10920,7 +10920,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -10958,7 +10958,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -10994,7 +10994,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -11030,7 +11030,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -11066,7 +11066,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.8,
@@ -11102,7 +11102,7 @@ data = {
 				GainCalc:-245.0,
 				currWealth:2255.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -11140,7 +11140,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -11176,7 +11176,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -11212,7 +11212,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -11248,7 +11248,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -11284,7 +11284,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -11322,7 +11322,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -11358,7 +11358,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -11394,7 +11394,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -11430,7 +11430,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -11466,7 +11466,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -11504,7 +11504,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -11540,7 +11540,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -11576,7 +11576,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -11612,7 +11612,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -11648,7 +11648,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -11686,7 +11686,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -11722,7 +11722,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -11758,7 +11758,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -11794,7 +11794,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -11830,7 +11830,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -11868,7 +11868,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -11904,7 +11904,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -11940,7 +11940,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.2,
@@ -11976,7 +11976,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -12012,7 +12012,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -12050,7 +12050,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -12086,7 +12086,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -12122,7 +12122,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -12158,7 +12158,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -12194,7 +12194,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -12232,7 +12232,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -12268,7 +12268,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -12304,7 +12304,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -12340,7 +12340,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-14.6,
@@ -12376,7 +12376,7 @@ data = {
 				GainCalc:-365.0,
 				currWealth:2135.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -12414,7 +12414,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -12450,7 +12450,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.6,
@@ -12486,7 +12486,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-10.2,
@@ -12522,7 +12522,7 @@ data = {
 				GainCalc:-255.0,
 				currWealth:2245.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.4,
@@ -12558,7 +12558,7 @@ data = {
 				GainCalc:-410.0,
 				currWealth:2090.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -12596,7 +12596,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -12632,7 +12632,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.6,
@@ -12668,7 +12668,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-10.2,
@@ -12704,7 +12704,7 @@ data = {
 				GainCalc:-255.0,
 				currWealth:2245.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-16.4,
@@ -12740,7 +12740,7 @@ data = {
 				GainCalc:-410.0,
 				currWealth:2090.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -12778,7 +12778,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -12814,7 +12814,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -12850,7 +12850,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.6,
@@ -12886,7 +12886,7 @@ data = {
 				GainCalc:-390.0,
 				currWealth:2110.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -12922,7 +12922,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -12960,7 +12960,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -12996,7 +12996,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13032,7 +13032,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.6,
@@ -13068,7 +13068,7 @@ data = {
 				GainCalc:-390.0,
 				currWealth:2110.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -13104,7 +13104,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -13142,7 +13142,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -13178,7 +13178,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13214,7 +13214,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-15.6,
@@ -13250,7 +13250,7 @@ data = {
 				GainCalc:-390.0,
 				currWealth:2110.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -13286,7 +13286,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -13324,7 +13324,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -13360,7 +13360,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13396,7 +13396,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-19.6,
@@ -13432,7 +13432,7 @@ data = {
 				GainCalc:-490.0,
 				currWealth:2010.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -13468,7 +13468,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -13506,7 +13506,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -13542,7 +13542,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13578,7 +13578,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-19.6,
@@ -13614,7 +13614,7 @@ data = {
 				GainCalc:-490.0,
 				currWealth:2010.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -13650,7 +13650,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -13688,7 +13688,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -13724,7 +13724,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13760,7 +13760,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-19.6,
@@ -13796,7 +13796,7 @@ data = {
 				GainCalc:-490.0,
 				currWealth:2010.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -13832,7 +13832,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -13870,7 +13870,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -13906,7 +13906,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -13942,7 +13942,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-19.6,
@@ -13978,7 +13978,7 @@ data = {
 				GainCalc:-490.0,
 				currWealth:2010.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14014,7 +14014,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -14052,7 +14052,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -14088,7 +14088,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -14124,7 +14124,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-24.0,
@@ -14160,7 +14160,7 @@ data = {
 				GainCalc:-600.0,
 				currWealth:1900.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14196,7 +14196,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -14234,7 +14234,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -14270,7 +14270,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -14306,7 +14306,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-24.0,
@@ -14342,7 +14342,7 @@ data = {
 				GainCalc:-600.0,
 				currWealth:1900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14378,7 +14378,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -14416,7 +14416,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -14452,7 +14452,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -14488,7 +14488,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-24.0,
@@ -14524,7 +14524,7 @@ data = {
 				GainCalc:-600.0,
 				currWealth:1900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14560,7 +14560,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -14598,7 +14598,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -14634,7 +14634,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -14670,7 +14670,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-24.0,
@@ -14706,7 +14706,7 @@ data = {
 				GainCalc:-600.0,
 				currWealth:1900.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14742,7 +14742,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -14780,7 +14780,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -14816,7 +14816,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.6,
@@ -14852,7 +14852,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-22.0,
@@ -14888,7 +14888,7 @@ data = {
 				GainCalc:-550.0,
 				currWealth:1950.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-21.8,
@@ -14924,7 +14924,7 @@ data = {
 				GainCalc:-545.0,
 				currWealth:1955.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -14964,7 +14964,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -15000,7 +15000,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -15036,7 +15036,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -15072,7 +15072,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -15108,7 +15108,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -15146,7 +15146,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -15182,7 +15182,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -15218,7 +15218,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -15254,7 +15254,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -15290,7 +15290,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -15328,7 +15328,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -15364,7 +15364,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.8,
@@ -15400,7 +15400,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -15436,7 +15436,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -15472,7 +15472,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -15510,7 +15510,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -15546,7 +15546,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.8,
@@ -15582,7 +15582,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -15618,7 +15618,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -15654,7 +15654,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -15692,7 +15692,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -15728,7 +15728,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -15764,7 +15764,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.4,
@@ -15800,7 +15800,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.0,
@@ -15836,7 +15836,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -15874,7 +15874,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -15910,7 +15910,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -15946,7 +15946,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.4,
@@ -15982,7 +15982,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -16018,7 +16018,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -16056,7 +16056,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -16092,7 +16092,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -16128,7 +16128,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.4,
@@ -16164,7 +16164,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -16200,7 +16200,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -16238,7 +16238,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -16274,7 +16274,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -16310,7 +16310,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.4,
@@ -16346,7 +16346,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -16382,7 +16382,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -16420,7 +16420,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -16456,7 +16456,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -16492,7 +16492,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.4,
@@ -16528,7 +16528,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.0,
@@ -16564,7 +16564,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -16602,7 +16602,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -16638,7 +16638,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.8,
@@ -16674,7 +16674,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -16710,7 +16710,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -16746,7 +16746,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -16784,7 +16784,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -16820,7 +16820,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -16856,7 +16856,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:5.8,
@@ -16892,7 +16892,7 @@ data = {
 				GainCalc:145.0,
 				currWealth:2645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.0,
@@ -16928,7 +16928,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -16966,7 +16966,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.0,
@@ -17002,7 +17002,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.6,
@@ -17038,7 +17038,7 @@ data = {
 				GainCalc:90.0,
 				currWealth:2590.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:9.4,
@@ -17074,7 +17074,7 @@ data = {
 				GainCalc:235.0,
 				currWealth:2735.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:14.0,
@@ -17110,7 +17110,7 @@ data = {
 				GainCalc:350.0,
 				currWealth:2850.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -17148,7 +17148,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -17184,7 +17184,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -17220,7 +17220,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:5.8,
@@ -17256,7 +17256,7 @@ data = {
 				GainCalc:145.0,
 				currWealth:2645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.0,
@@ -17292,7 +17292,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -17330,7 +17330,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.2,
@@ -17366,7 +17366,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.8,
@@ -17402,7 +17402,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:9.4,
@@ -17438,7 +17438,7 @@ data = {
 				GainCalc:235.0,
 				currWealth:2735.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:14.0,
@@ -17474,7 +17474,7 @@ data = {
 				GainCalc:350.0,
 				currWealth:2850.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -17512,7 +17512,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -17548,7 +17548,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.6,
@@ -17584,7 +17584,7 @@ data = {
 				GainCalc:115.0,
 				currWealth:2615.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:11.2,
@@ -17620,7 +17620,7 @@ data = {
 				GainCalc:280.0,
 				currWealth:2780.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:16.0,
@@ -17656,7 +17656,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -17694,7 +17694,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.0,
@@ -17730,7 +17730,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:6.4,
@@ -17766,7 +17766,7 @@ data = {
 				GainCalc:160.0,
 				currWealth:2660.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:13.0,
@@ -17802,7 +17802,7 @@ data = {
 				GainCalc:325.0,
 				currWealth:2825.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:18.0,
@@ -17838,7 +17838,7 @@ data = {
 				GainCalc:450.0,
 				currWealth:2950.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -17876,7 +17876,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.8,
@@ -17912,7 +17912,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.0,
@@ -17948,7 +17948,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:7.6,
@@ -17984,7 +17984,7 @@ data = {
 				GainCalc:190.0,
 				currWealth:2690.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:12.0,
@@ -18020,7 +18020,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -18058,7 +18058,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.0,
@@ -18094,7 +18094,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -18130,7 +18130,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -18166,7 +18166,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -18202,7 +18202,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -18240,7 +18240,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.0,
@@ -18276,7 +18276,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -18312,7 +18312,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -18348,7 +18348,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -18384,7 +18384,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -18422,7 +18422,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -18458,7 +18458,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -18494,7 +18494,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -18530,7 +18530,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -18566,7 +18566,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -18604,7 +18604,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -18640,7 +18640,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -18676,7 +18676,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -18712,7 +18712,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -18748,7 +18748,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -18786,7 +18786,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -18822,7 +18822,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -18858,7 +18858,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -18894,7 +18894,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -18930,7 +18930,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -18968,7 +18968,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -19004,7 +19004,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -19040,7 +19040,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -19076,7 +19076,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -19112,7 +19112,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -19150,7 +19150,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -19186,7 +19186,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -19222,7 +19222,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -19258,7 +19258,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -19294,7 +19294,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -19332,7 +19332,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -19368,7 +19368,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.0,
@@ -19404,7 +19404,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -19440,7 +19440,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.2,
@@ -19476,7 +19476,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -19514,7 +19514,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.2,
@@ -19550,7 +19550,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-9.4,
@@ -19586,7 +19586,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.6,
@@ -19622,7 +19622,7 @@ data = {
 				GainCalc:-140.0,
 				currWealth:2360.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -19658,7 +19658,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -19696,7 +19696,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.2,
@@ -19732,7 +19732,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-9.4,
@@ -19768,7 +19768,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.6,
@@ -19804,7 +19804,7 @@ data = {
 				GainCalc:-140.0,
 				currWealth:2360.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.2,
@@ -19840,7 +19840,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -19878,7 +19878,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-5.4,
@@ -19914,7 +19914,7 @@ data = {
 				GainCalc:-135.0,
 				currWealth:2365.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-12.6,
@@ -19950,7 +19950,7 @@ data = {
 				GainCalc:-315.0,
 				currWealth:2185.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-9.2,
@@ -19986,7 +19986,7 @@ data = {
 				GainCalc:-230.0,
 				currWealth:2270.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -20022,7 +20022,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -20060,7 +20060,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-5.4,
@@ -20096,7 +20096,7 @@ data = {
 				GainCalc:-135.0,
 				currWealth:2365.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-12.6,
@@ -20132,7 +20132,7 @@ data = {
 				GainCalc:-315.0,
 				currWealth:2185.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-9.2,
@@ -20168,7 +20168,7 @@ data = {
 				GainCalc:-230.0,
 				currWealth:2270.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -20204,7 +20204,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -20242,7 +20242,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -20278,7 +20278,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.0,
@@ -20314,7 +20314,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.0,
@@ -20350,7 +20350,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -20386,7 +20386,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -20424,7 +20424,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -20460,7 +20460,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.0,
@@ -20496,7 +20496,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.0,
@@ -20532,7 +20532,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -20568,7 +20568,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -20606,7 +20606,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -20642,7 +20642,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.0,
@@ -20678,7 +20678,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.0,
@@ -20714,7 +20714,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -20750,7 +20750,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -20788,7 +20788,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -20824,7 +20824,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.0,
@@ -20860,7 +20860,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.0,
@@ -20896,7 +20896,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -20932,7 +20932,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -20970,7 +20970,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -21006,7 +21006,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-14.0,
@@ -21042,7 +21042,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.0,
@@ -21078,7 +21078,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -21114,7 +21114,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -21152,7 +21152,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.2,
@@ -21188,7 +21188,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-8.6,
@@ -21224,7 +21224,7 @@ data = {
 				GainCalc:-215.0,
 				currWealth:2285.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.6,
@@ -21260,7 +21260,7 @@ data = {
 				GainCalc:-140.0,
 				currWealth:2360.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.2,
@@ -21296,7 +21296,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -21334,7 +21334,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.8,
@@ -21370,7 +21370,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-5.0,
@@ -21406,7 +21406,7 @@ data = {
 				GainCalc:-125.0,
 				currWealth:2375.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -21442,7 +21442,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.2,
@@ -21478,7 +21478,7 @@ data = {
 				GainCalc:255.0,
 				currWealth:2755.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -21516,7 +21516,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.2,
@@ -21552,7 +21552,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.2,
@@ -21588,7 +21588,7 @@ data = {
 				GainCalc:-80.0,
 				currWealth:2420.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.2,
@@ -21624,7 +21624,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:12.2,
@@ -21660,7 +21660,7 @@ data = {
 				GainCalc:305.0,
 				currWealth:2805.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -21698,7 +21698,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.4,
@@ -21734,7 +21734,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -21770,7 +21770,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:3.4,
@@ -21806,7 +21806,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:16.2,
@@ -21842,7 +21842,7 @@ data = {
 				GainCalc:405.0,
 				currWealth:2905.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -21880,7 +21880,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:7.0,
@@ -21916,7 +21916,7 @@ data = {
 				GainCalc:175.0,
 				currWealth:2675.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.0,
@@ -21952,7 +21952,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:7.0,
@@ -21988,7 +21988,7 @@ data = {
 				GainCalc:175.0,
 				currWealth:2675.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:20.2,
@@ -22024,7 +22024,7 @@ data = {
 				GainCalc:505.0,
 				currWealth:3005.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -22062,7 +22062,7 @@ data = {
 				GainCalc:145.0,
 				currWealth:2645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:10.6,
@@ -22098,7 +22098,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:7.6,
@@ -22134,7 +22134,7 @@ data = {
 				GainCalc:190.0,
 				currWealth:2690.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.6,
@@ -22170,7 +22170,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:24.2,
@@ -22206,7 +22206,7 @@ data = {
 				GainCalc:605.0,
 				currWealth:3105.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -22244,7 +22244,7 @@ data = {
 				GainCalc:220.0,
 				currWealth:2720.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:16.0,
@@ -22280,7 +22280,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:13.0,
@@ -22316,7 +22316,7 @@ data = {
 				GainCalc:325.0,
 				currWealth:2825.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:16.0,
@@ -22352,7 +22352,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:30.2,
@@ -22388,7 +22388,7 @@ data = {
 				GainCalc:755.0,
 				currWealth:3255.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -22428,7 +22428,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -22464,7 +22464,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -22500,7 +22500,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -22536,7 +22536,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -22572,7 +22572,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -22610,7 +22610,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -22646,7 +22646,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.0,
@@ -22682,7 +22682,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -22718,7 +22718,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -22754,7 +22754,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -22792,7 +22792,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -22828,7 +22828,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.0,
@@ -22864,7 +22864,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -22900,7 +22900,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -22936,7 +22936,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -22974,7 +22974,7 @@ data = {
 				GainCalc:-195.0,
 				currWealth:2305.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.2,
@@ -23010,7 +23010,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.8,
@@ -23046,7 +23046,7 @@ data = {
 				GainCalc:-195.0,
 				currWealth:2305.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.8,
@@ -23082,7 +23082,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -23118,7 +23118,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -23156,7 +23156,7 @@ data = {
 				GainCalc:-195.0,
 				currWealth:2305.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.2,
@@ -23192,7 +23192,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.8,
@@ -23228,7 +23228,7 @@ data = {
 				GainCalc:-195.0,
 				currWealth:2305.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.8,
@@ -23264,7 +23264,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -23300,7 +23300,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -23338,7 +23338,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.0,
@@ -23374,7 +23374,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.4,
@@ -23410,7 +23410,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.8,
@@ -23446,7 +23446,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.4,
@@ -23482,7 +23482,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -23520,7 +23520,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.6,
@@ -23556,7 +23556,7 @@ data = {
 				GainCalc:115.0,
 				currWealth:2615.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.0,
@@ -23592,7 +23592,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.2,
@@ -23628,7 +23628,7 @@ data = {
 				GainCalc:205.0,
 				currWealth:2705.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.2,
@@ -23664,7 +23664,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -23702,7 +23702,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:6.2,
@@ -23738,7 +23738,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.8,
@@ -23774,7 +23774,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.0,
@@ -23810,7 +23810,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:3.0,
@@ -23846,7 +23846,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -23884,7 +23884,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:8.0,
@@ -23920,7 +23920,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:6.6,
@@ -23956,7 +23956,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:11.8,
@@ -23992,7 +23992,7 @@ data = {
 				GainCalc:295.0,
 				currWealth:2795.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -24028,7 +24028,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -24066,7 +24066,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.4,
@@ -24102,7 +24102,7 @@ data = {
 				GainCalc:110.0,
 				currWealth:2610.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.0,
@@ -24138,7 +24138,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.2,
@@ -24174,7 +24174,7 @@ data = {
 				GainCalc:205.0,
 				currWealth:2705.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.0,
@@ -24210,7 +24210,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -24248,7 +24248,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.6,
@@ -24284,7 +24284,7 @@ data = {
 				GainCalc:65.0,
 				currWealth:2565.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.4,
@@ -24320,7 +24320,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:3.4,
@@ -24356,7 +24356,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.4,
@@ -24392,7 +24392,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -24430,7 +24430,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.6,
@@ -24466,7 +24466,7 @@ data = {
 				GainCalc:65.0,
 				currWealth:2565.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.4,
@@ -24502,7 +24502,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:3.4,
@@ -24538,7 +24538,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.4,
@@ -24574,7 +24574,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -24612,7 +24612,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.4,
@@ -24648,7 +24648,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.0,
@@ -24684,7 +24684,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.2,
@@ -24720,7 +24720,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.0,
@@ -24756,7 +24756,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -24794,7 +24794,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.4,
@@ -24830,7 +24830,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.0,
@@ -24866,7 +24866,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.2,
@@ -24902,7 +24902,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.0,
@@ -24938,7 +24938,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -24976,7 +24976,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.4,
@@ -25012,7 +25012,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.0,
@@ -25048,7 +25048,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.2,
@@ -25084,7 +25084,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.0,
@@ -25120,7 +25120,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -25158,7 +25158,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.4,
@@ -25194,7 +25194,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -25230,7 +25230,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.8,
@@ -25266,7 +25266,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.0,
@@ -25302,7 +25302,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -25340,7 +25340,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -25376,7 +25376,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -25412,7 +25412,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.0,
@@ -25448,7 +25448,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.6,
@@ -25484,7 +25484,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -25522,7 +25522,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -25558,7 +25558,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.8,
@@ -25594,7 +25594,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.0,
@@ -25630,7 +25630,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.6,
@@ -25666,7 +25666,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -25704,7 +25704,7 @@ data = {
 				GainCalc:90.0,
 				currWealth:2590.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.2,
@@ -25740,7 +25740,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -25776,7 +25776,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.6,
@@ -25812,7 +25812,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.0,
@@ -25848,7 +25848,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -25886,7 +25886,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.6,
@@ -25922,7 +25922,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -25958,7 +25958,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.6,
@@ -25994,7 +25994,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -26030,7 +26030,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -26068,7 +26068,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.6,
@@ -26104,7 +26104,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -26140,7 +26140,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -26176,7 +26176,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -26212,7 +26212,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -26250,7 +26250,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -26286,7 +26286,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -26322,7 +26322,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -26358,7 +26358,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -26394,7 +26394,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -26432,7 +26432,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -26468,7 +26468,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -26504,7 +26504,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -26540,7 +26540,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -26576,7 +26576,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -26614,7 +26614,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -26650,7 +26650,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -26686,7 +26686,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -26722,7 +26722,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -26758,7 +26758,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -26796,7 +26796,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -26832,7 +26832,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -26868,7 +26868,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -26904,7 +26904,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -26940,7 +26940,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -26978,7 +26978,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27014,7 +27014,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27050,7 +27050,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27086,7 +27086,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -27122,7 +27122,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -27160,7 +27160,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27196,7 +27196,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27232,7 +27232,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27268,7 +27268,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -27304,7 +27304,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -27342,7 +27342,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27378,7 +27378,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27414,7 +27414,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27450,7 +27450,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -27486,7 +27486,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -27524,7 +27524,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27560,7 +27560,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27596,7 +27596,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27632,7 +27632,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -27668,7 +27668,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -27706,7 +27706,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27742,7 +27742,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27778,7 +27778,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27814,7 +27814,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -27850,7 +27850,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -27888,7 +27888,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -27924,7 +27924,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -27960,7 +27960,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -27996,7 +27996,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28032,7 +28032,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -28070,7 +28070,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -28106,7 +28106,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -28142,7 +28142,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -28178,7 +28178,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28214,7 +28214,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -28252,7 +28252,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -28288,7 +28288,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -28324,7 +28324,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -28360,7 +28360,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28396,7 +28396,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -28434,7 +28434,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -28470,7 +28470,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -28506,7 +28506,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -28542,7 +28542,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28578,7 +28578,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -28616,7 +28616,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -28652,7 +28652,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -28688,7 +28688,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -28724,7 +28724,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28760,7 +28760,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -28798,7 +28798,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.6,
@@ -28834,7 +28834,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -28870,7 +28870,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.8,
@@ -28906,7 +28906,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -28942,7 +28942,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -28980,7 +28980,7 @@ data = {
 				GainCalc:90.0,
 				currWealth:2590.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-3.4,
@@ -29016,7 +29016,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.8,
@@ -29052,7 +29052,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.6,
@@ -29088,7 +29088,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.8,
@@ -29124,7 +29124,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -29162,7 +29162,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -29198,7 +29198,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:7.6,
@@ -29234,7 +29234,7 @@ data = {
 				GainCalc:190.0,
 				currWealth:2690.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.8,
@@ -29270,7 +29270,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.4,
@@ -29306,7 +29306,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -29344,7 +29344,7 @@ data = {
 				GainCalc:90.0,
 				currWealth:2590.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.2,
@@ -29380,7 +29380,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.8,
@@ -29416,7 +29416,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.6,
@@ -29452,7 +29452,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.2,
@@ -29488,7 +29488,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -29526,7 +29526,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -29562,7 +29562,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -29598,7 +29598,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-3.4,
@@ -29634,7 +29634,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -29670,7 +29670,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -29708,7 +29708,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -29744,7 +29744,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -29780,7 +29780,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-3.4,
@@ -29816,7 +29816,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.4,
@@ -29852,7 +29852,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -29892,7 +29892,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -29928,7 +29928,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -29964,7 +29964,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30000,7 +30000,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30036,7 +30036,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -30074,7 +30074,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -30110,7 +30110,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -30146,7 +30146,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30182,7 +30182,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30218,7 +30218,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -30256,7 +30256,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -30292,7 +30292,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -30328,7 +30328,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30364,7 +30364,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30400,7 +30400,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -30438,7 +30438,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -30474,7 +30474,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -30510,7 +30510,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30546,7 +30546,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30582,7 +30582,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -30620,7 +30620,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -30656,7 +30656,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -30692,7 +30692,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30728,7 +30728,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30764,7 +30764,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -30802,7 +30802,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -30838,7 +30838,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -30874,7 +30874,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -30910,7 +30910,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -30946,7 +30946,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -30984,7 +30984,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.0,
@@ -31020,7 +31020,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -31056,7 +31056,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -31092,7 +31092,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -31128,7 +31128,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -31166,7 +31166,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.0,
@@ -31202,7 +31202,7 @@ data = {
 				GainCalc:-300.0,
 				currWealth:2200.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -31238,7 +31238,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.2,
@@ -31274,7 +31274,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -31310,7 +31310,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -31348,7 +31348,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.0,
@@ -31384,7 +31384,7 @@ data = {
 				GainCalc:-300.0,
 				currWealth:2200.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -31420,7 +31420,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.2,
@@ -31456,7 +31456,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -31492,7 +31492,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -31530,7 +31530,7 @@ data = {
 				GainCalc:-260.0,
 				currWealth:2240.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.0,
@@ -31566,7 +31566,7 @@ data = {
 				GainCalc:-200.0,
 				currWealth:2300.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -31602,7 +31602,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.8,
@@ -31638,7 +31638,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -31674,7 +31674,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -31712,7 +31712,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.0,
@@ -31748,7 +31748,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.6,
@@ -31784,7 +31784,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.8,
@@ -31820,7 +31820,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.6,
@@ -31856,7 +31856,7 @@ data = {
 				GainCalc:65.0,
 				currWealth:2565.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -31894,7 +31894,7 @@ data = {
 				GainCalc:-305.0,
 				currWealth:2195.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-10.0,
@@ -31930,7 +31930,7 @@ data = {
 				GainCalc:-250.0,
 				currWealth:2250.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.8,
@@ -31966,7 +31966,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.2,
@@ -32002,7 +32002,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -32038,7 +32038,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -32076,7 +32076,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.0,
@@ -32112,7 +32112,7 @@ data = {
 				GainCalc:-300.0,
 				currWealth:2200.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -32148,7 +32148,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -32184,7 +32184,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.4,
@@ -32220,7 +32220,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -32258,7 +32258,7 @@ data = {
 				GainCalc:-350.0,
 				currWealth:2150.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.0,
@@ -32294,7 +32294,7 @@ data = {
 				GainCalc:-300.0,
 				currWealth:2200.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -32330,7 +32330,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -32366,7 +32366,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.4,
@@ -32402,7 +32402,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -32440,7 +32440,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.8,
@@ -32476,7 +32476,7 @@ data = {
 				GainCalc:-345.0,
 				currWealth:2155.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -32512,7 +32512,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-3.0,
@@ -32548,7 +32548,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.8,
@@ -32584,7 +32584,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -32622,7 +32622,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.8,
@@ -32658,7 +32658,7 @@ data = {
 				GainCalc:-345.0,
 				currWealth:2155.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -32694,7 +32694,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-3.0,
@@ -32730,7 +32730,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.8,
@@ -32766,7 +32766,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -32804,7 +32804,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.0,
@@ -32840,7 +32840,7 @@ data = {
 				GainCalc:-300.0,
 				currWealth:2200.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -32876,7 +32876,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.6,
@@ -32912,7 +32912,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.4,
@@ -32948,7 +32948,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -32986,7 +32986,7 @@ data = {
 				GainCalc:-275.0,
 				currWealth:2225.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-8.4,
@@ -33022,7 +33022,7 @@ data = {
 				GainCalc:-210.0,
 				currWealth:2290.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.2,
@@ -33058,7 +33058,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.4,
@@ -33094,7 +33094,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -33130,7 +33130,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -33168,7 +33168,7 @@ data = {
 				GainCalc:-235.0,
 				currWealth:2265.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-6.6,
@@ -33204,7 +33204,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.0,
@@ -33240,7 +33240,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.4,
@@ -33276,7 +33276,7 @@ data = {
 				GainCalc:110.0,
 				currWealth:2610.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.6,
@@ -33312,7 +33312,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -33350,7 +33350,7 @@ data = {
 				GainCalc:-315.0,
 				currWealth:2185.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-10.2,
@@ -33386,7 +33386,7 @@ data = {
 				GainCalc:-255.0,
 				currWealth:2245.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -33422,7 +33422,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.4,
@@ -33458,7 +33458,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -33494,7 +33494,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -33532,7 +33532,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.8,
@@ -33568,7 +33568,7 @@ data = {
 				GainCalc:-345.0,
 				currWealth:2155.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.4,
@@ -33604,7 +33604,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -33640,7 +33640,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.8,
@@ -33676,7 +33676,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -33714,7 +33714,7 @@ data = {
 				GainCalc:-395.0,
 				currWealth:2105.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-13.8,
@@ -33750,7 +33750,7 @@ data = {
 				GainCalc:-345.0,
 				currWealth:2155.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.4,
@@ -33786,7 +33786,7 @@ data = {
 				GainCalc:-35.0,
 				currWealth:2465.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.0,
@@ -33822,7 +33822,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.8,
@@ -33858,7 +33858,7 @@ data = {
 				GainCalc:-70.0,
 				currWealth:2430.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -33896,7 +33896,7 @@ data = {
 				GainCalc:-355.0,
 				currWealth:2145.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-12.2,
@@ -33932,7 +33932,7 @@ data = {
 				GainCalc:-305.0,
 				currWealth:2195.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.2,
@@ -33968,7 +33968,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.6,
@@ -34004,7 +34004,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.4,
@@ -34040,7 +34040,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -34078,7 +34078,7 @@ data = {
 				GainCalc:-475.0,
 				currWealth:2025.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-17.0,
@@ -34114,7 +34114,7 @@ data = {
 				GainCalc:-425.0,
 				currWealth:2075.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.0,
@@ -34150,7 +34150,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.6,
@@ -34186,7 +34186,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -34222,7 +34222,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -34260,7 +34260,7 @@ data = {
 				GainCalc:-555.0,
 				currWealth:1945.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-17.0,
@@ -34296,7 +34296,7 @@ data = {
 				GainCalc:-425.0,
 				currWealth:2075.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.0,
@@ -34332,7 +34332,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.6,
@@ -34368,7 +34368,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -34404,7 +34404,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -34442,7 +34442,7 @@ data = {
 				GainCalc:-555.0,
 				currWealth:1945.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-17.0,
@@ -34478,7 +34478,7 @@ data = {
 				GainCalc:-425.0,
 				currWealth:2075.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.0,
@@ -34514,7 +34514,7 @@ data = {
 				GainCalc:-75.0,
 				currWealth:2425.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.6,
@@ -34550,7 +34550,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -34586,7 +34586,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -34624,7 +34624,7 @@ data = {
 				GainCalc:-635.0,
 				currWealth:1865.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -34660,7 +34660,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -34696,7 +34696,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -34732,7 +34732,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -34768,7 +34768,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -34806,7 +34806,7 @@ data = {
 				GainCalc:-635.0,
 				currWealth:1865.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -34842,7 +34842,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -34878,7 +34878,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -34914,7 +34914,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -34950,7 +34950,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -34988,7 +34988,7 @@ data = {
 				GainCalc:-635.0,
 				currWealth:1865.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35024,7 +35024,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35060,7 +35060,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -35096,7 +35096,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -35132,7 +35132,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -35170,7 +35170,7 @@ data = {
 				GainCalc:-715.0,
 				currWealth:1785.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35206,7 +35206,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35242,7 +35242,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -35278,7 +35278,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -35314,7 +35314,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -35352,7 +35352,7 @@ data = {
 				GainCalc:-715.0,
 				currWealth:1785.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35388,7 +35388,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35424,7 +35424,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -35460,7 +35460,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -35496,7 +35496,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -35534,7 +35534,7 @@ data = {
 				GainCalc:-715.0,
 				currWealth:1785.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35570,7 +35570,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35606,7 +35606,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -35642,7 +35642,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -35678,7 +35678,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -35716,7 +35716,7 @@ data = {
 				GainCalc:-715.0,
 				currWealth:1785.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35752,7 +35752,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35788,7 +35788,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -35824,7 +35824,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -35860,7 +35860,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -35898,7 +35898,7 @@ data = {
 				GainCalc:-760.0,
 				currWealth:1740.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -35934,7 +35934,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -35970,7 +35970,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36006,7 +36006,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36042,7 +36042,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -36080,7 +36080,7 @@ data = {
 				GainCalc:-760.0,
 				currWealth:1740.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -36116,7 +36116,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -36152,7 +36152,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36188,7 +36188,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36224,7 +36224,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -36262,7 +36262,7 @@ data = {
 				GainCalc:-760.0,
 				currWealth:1740.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -36298,7 +36298,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -36334,7 +36334,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36370,7 +36370,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36406,7 +36406,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -36444,7 +36444,7 @@ data = {
 				GainCalc:-760.0,
 				currWealth:1740.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -36480,7 +36480,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -36516,7 +36516,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36552,7 +36552,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36588,7 +36588,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -36626,7 +36626,7 @@ data = {
 				GainCalc:-805.0,
 				currWealth:1695.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -36662,7 +36662,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -36698,7 +36698,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36734,7 +36734,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36770,7 +36770,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -36808,7 +36808,7 @@ data = {
 				GainCalc:-805.0,
 				currWealth:1695.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -36844,7 +36844,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -36880,7 +36880,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -36916,7 +36916,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -36952,7 +36952,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -36990,7 +36990,7 @@ data = {
 				GainCalc:-805.0,
 				currWealth:1695.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -37026,7 +37026,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -37062,7 +37062,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -37098,7 +37098,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -37134,7 +37134,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -37172,7 +37172,7 @@ data = {
 				GainCalc:-805.0,
 				currWealth:1695.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-20.6,
@@ -37208,7 +37208,7 @@ data = {
 				GainCalc:-515.0,
 				currWealth:1985.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-3.4,
@@ -37244,7 +37244,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-8.2,
@@ -37280,7 +37280,7 @@ data = {
 				GainCalc:-205.0,
 				currWealth:2295.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.4,
@@ -37316,7 +37316,7 @@ data = {
 				GainCalc:-160.0,
 				currWealth:2340.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -37356,7 +37356,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -37392,7 +37392,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -37428,7 +37428,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -37464,7 +37464,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -37500,7 +37500,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -37538,7 +37538,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -37574,7 +37574,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -37610,7 +37610,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -37646,7 +37646,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -37682,7 +37682,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -37720,7 +37720,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -37756,7 +37756,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -37792,7 +37792,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -37828,7 +37828,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -37864,7 +37864,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -37902,7 +37902,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -37938,7 +37938,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -37974,7 +37974,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -38010,7 +38010,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.0,
@@ -38046,7 +38046,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -38084,7 +38084,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -38120,7 +38120,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -38156,7 +38156,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-6.0,
@@ -38192,7 +38192,7 @@ data = {
 				GainCalc:-150.0,
 				currWealth:2350.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.2,
@@ -38228,7 +38228,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -38266,7 +38266,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -38302,7 +38302,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.0,
@@ -38338,7 +38338,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.4,
@@ -38374,7 +38374,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -38410,7 +38410,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -38448,7 +38448,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.4,
@@ -38484,7 +38484,7 @@ data = {
 				GainCalc:110.0,
 				currWealth:2610.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:8.0,
@@ -38520,7 +38520,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -38556,7 +38556,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:3.0,
@@ -38592,7 +38592,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -38630,7 +38630,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.8,
@@ -38666,7 +38666,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.0,
@@ -38702,7 +38702,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-2.4,
@@ -38738,7 +38738,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -38774,7 +38774,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -38812,7 +38812,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -38848,7 +38848,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:6.0,
@@ -38884,7 +38884,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -38920,7 +38920,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:3.0,
@@ -38956,7 +38956,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -38994,7 +38994,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:5.2,
@@ -39030,7 +39030,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:11.4,
@@ -39066,7 +39066,7 @@ data = {
 				GainCalc:285.0,
 				currWealth:2785.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -39102,7 +39102,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.4,
@@ -39138,7 +39138,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -39176,7 +39176,7 @@ data = {
 				GainCalc:135.0,
 				currWealth:2635.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:10.0,
@@ -39212,7 +39212,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:16.8,
@@ -39248,7 +39248,7 @@ data = {
 				GainCalc:420.0,
 				currWealth:2920.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -39284,7 +39284,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:13.8,
@@ -39320,7 +39320,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -39358,7 +39358,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.6,
@@ -39394,7 +39394,7 @@ data = {
 				GainCalc:115.0,
 				currWealth:2615.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:11.4,
@@ -39430,7 +39430,7 @@ data = {
 				GainCalc:285.0,
 				currWealth:2785.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -39466,7 +39466,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.4,
@@ -39502,7 +39502,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -39540,7 +39540,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:5.4,
@@ -39576,7 +39576,7 @@ data = {
 				GainCalc:135.0,
 				currWealth:2635.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:14.2,
@@ -39612,7 +39612,7 @@ data = {
 				GainCalc:355.0,
 				currWealth:2855.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.2,
@@ -39648,7 +39648,7 @@ data = {
 				GainCalc:255.0,
 				currWealth:2755.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:12.0,
@@ -39684,7 +39684,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -39722,7 +39722,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -39758,7 +39758,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:10.6,
@@ -39794,7 +39794,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -39830,7 +39830,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.4,
@@ -39866,7 +39866,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -39904,7 +39904,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -39940,7 +39940,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:10.6,
@@ -39976,7 +39976,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -40012,7 +40012,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.8,
@@ -40048,7 +40048,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -40086,7 +40086,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -40122,7 +40122,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:10.6,
@@ -40158,7 +40158,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -40194,7 +40194,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.8,
@@ -40230,7 +40230,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -40268,7 +40268,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -40304,7 +40304,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:10.6,
@@ -40340,7 +40340,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -40376,7 +40376,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.8,
@@ -40412,7 +40412,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -40450,7 +40450,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -40486,7 +40486,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:10.6,
@@ -40522,7 +40522,7 @@ data = {
 				GainCalc:265.0,
 				currWealth:2765.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.6,
@@ -40558,7 +40558,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.4,
@@ -40594,7 +40594,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -40632,7 +40632,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -40668,7 +40668,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -40704,7 +40704,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -40740,7 +40740,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:3.0,
@@ -40776,7 +40776,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -40814,7 +40814,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -40850,7 +40850,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -40886,7 +40886,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -40922,7 +40922,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -40958,7 +40958,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -40996,7 +40996,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41032,7 +41032,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41068,7 +41068,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -41104,7 +41104,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -41140,7 +41140,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -41178,7 +41178,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41214,7 +41214,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41250,7 +41250,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -41286,7 +41286,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -41322,7 +41322,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -41360,7 +41360,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41396,7 +41396,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41432,7 +41432,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -41468,7 +41468,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -41504,7 +41504,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -41542,7 +41542,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41578,7 +41578,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41614,7 +41614,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -41650,7 +41650,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -41686,7 +41686,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -41724,7 +41724,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41760,7 +41760,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41796,7 +41796,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -41832,7 +41832,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -41868,7 +41868,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -41906,7 +41906,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -41942,7 +41942,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -41978,7 +41978,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -42014,7 +42014,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -42050,7 +42050,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -42088,7 +42088,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -42124,7 +42124,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -42160,7 +42160,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -42196,7 +42196,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -42232,7 +42232,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -42270,7 +42270,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -42306,7 +42306,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -42342,7 +42342,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -42378,7 +42378,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -42414,7 +42414,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -42452,7 +42452,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -42488,7 +42488,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -42524,7 +42524,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -42560,7 +42560,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -42596,7 +42596,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -42634,7 +42634,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -42670,7 +42670,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -42706,7 +42706,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -42742,7 +42742,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.6,
@@ -42778,7 +42778,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -42816,7 +42816,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -42852,7 +42852,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -42888,7 +42888,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.8,
@@ -42924,7 +42924,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.6,
@@ -42960,7 +42960,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -42998,7 +42998,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43034,7 +43034,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -43070,7 +43070,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.8,
@@ -43106,7 +43106,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.6,
@@ -43142,7 +43142,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -43180,7 +43180,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43216,7 +43216,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -43252,7 +43252,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.8,
@@ -43288,7 +43288,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.6,
@@ -43324,7 +43324,7 @@ data = {
 				GainCalc:-165.0,
 				currWealth:2335.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -43362,7 +43362,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43398,7 +43398,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -43434,7 +43434,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -43470,7 +43470,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.2,
@@ -43506,7 +43506,7 @@ data = {
 				GainCalc:-330.0,
 				currWealth:2170.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -43544,7 +43544,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43580,7 +43580,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -43616,7 +43616,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -43652,7 +43652,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.2,
@@ -43688,7 +43688,7 @@ data = {
 				GainCalc:-330.0,
 				currWealth:2170.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -43726,7 +43726,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43762,7 +43762,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -43798,7 +43798,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -43834,7 +43834,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.2,
@@ -43870,7 +43870,7 @@ data = {
 				GainCalc:-330.0,
 				currWealth:2170.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -43908,7 +43908,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -43944,7 +43944,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -43980,7 +43980,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -44016,7 +44016,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.2,
@@ -44052,7 +44052,7 @@ data = {
 				GainCalc:-330.0,
 				currWealth:2170.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -44090,7 +44090,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -44126,7 +44126,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -44162,7 +44162,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -44198,7 +44198,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.2,
@@ -44234,7 +44234,7 @@ data = {
 				GainCalc:-330.0,
 				currWealth:2170.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -44272,7 +44272,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -44308,7 +44308,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -44344,7 +44344,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -44380,7 +44380,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-15.6,
@@ -44416,7 +44416,7 @@ data = {
 				GainCalc:-390.0,
 				currWealth:2110.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -44454,7 +44454,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -44490,7 +44490,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -44526,7 +44526,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.4,
@@ -44562,7 +44562,7 @@ data = {
 				GainCalc:-285.0,
 				currWealth:2215.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-15.6,
@@ -44598,7 +44598,7 @@ data = {
 				GainCalc:-390.0,
 				currWealth:2110.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -44636,7 +44636,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.2,
@@ -44672,7 +44672,7 @@ data = {
 				GainCalc:-30.0,
 				currWealth:2470.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -44708,7 +44708,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-9.0,
@@ -44744,7 +44744,7 @@ data = {
 				GainCalc:-225.0,
 				currWealth:2275.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.4,
@@ -44780,7 +44780,7 @@ data = {
 				GainCalc:-335.0,
 				currWealth:2165.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -44820,7 +44820,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -44856,7 +44856,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -44892,7 +44892,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -44928,7 +44928,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -44964,7 +44964,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -45002,7 +45002,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -45038,7 +45038,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -45074,7 +45074,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -45110,7 +45110,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.0,
@@ -45146,7 +45146,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -45184,7 +45184,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -45220,7 +45220,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.0,
@@ -45256,7 +45256,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -45292,7 +45292,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -45328,7 +45328,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -45366,7 +45366,7 @@ data = {
 				GainCalc:135.0,
 				currWealth:2635.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.0,
@@ -45402,7 +45402,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.8,
@@ -45438,7 +45438,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.0,
@@ -45474,7 +45474,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -45510,7 +45510,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -45548,7 +45548,7 @@ data = {
 				GainCalc:180.0,
 				currWealth:2680.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.8,
@@ -45584,7 +45584,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.6,
@@ -45620,7 +45620,7 @@ data = {
 				GainCalc:140.0,
 				currWealth:2640.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.0,
@@ -45656,7 +45656,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.0,
@@ -45692,7 +45692,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -45730,7 +45730,7 @@ data = {
 				GainCalc:135.0,
 				currWealth:2635.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.8,
@@ -45766,7 +45766,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.8,
@@ -45802,7 +45802,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.0,
@@ -45838,7 +45838,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -45874,7 +45874,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -45912,7 +45912,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -45948,7 +45948,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.2,
@@ -45984,7 +45984,7 @@ data = {
 				GainCalc:80.0,
 				currWealth:2580.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -46020,7 +46020,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -46056,7 +46056,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -46094,7 +46094,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -46130,7 +46130,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.2,
@@ -46166,7 +46166,7 @@ data = {
 				GainCalc:80.0,
 				currWealth:2580.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -46202,7 +46202,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -46238,7 +46238,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -46276,7 +46276,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -46312,7 +46312,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.2,
@@ -46348,7 +46348,7 @@ data = {
 				GainCalc:80.0,
 				currWealth:2580.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -46384,7 +46384,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -46420,7 +46420,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -46458,7 +46458,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.6,
@@ -46494,7 +46494,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.2,
@@ -46530,7 +46530,7 @@ data = {
 				GainCalc:80.0,
 				currWealth:2580.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.0,
@@ -46566,7 +46566,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -46602,7 +46602,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -46640,7 +46640,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.8,
@@ -46676,7 +46676,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.2,
@@ -46712,7 +46712,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -46748,7 +46748,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -46784,7 +46784,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -46822,7 +46822,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.8,
@@ -46858,7 +46858,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.2,
@@ -46894,7 +46894,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -46930,7 +46930,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -46966,7 +46966,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -47004,7 +47004,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47040,7 +47040,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47076,7 +47076,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -47112,7 +47112,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -47148,7 +47148,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -47186,7 +47186,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47222,7 +47222,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47258,7 +47258,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -47294,7 +47294,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -47330,7 +47330,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -47368,7 +47368,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47404,7 +47404,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47440,7 +47440,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -47476,7 +47476,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -47512,7 +47512,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -47550,7 +47550,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47586,7 +47586,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47622,7 +47622,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -47658,7 +47658,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -47694,7 +47694,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -47732,7 +47732,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47768,7 +47768,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47804,7 +47804,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -47840,7 +47840,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.8,
@@ -47876,7 +47876,7 @@ data = {
 				GainCalc:-95.0,
 				currWealth:2405.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -47914,7 +47914,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -47950,7 +47950,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -47986,7 +47986,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.2,
@@ -48022,7 +48022,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.8,
@@ -48058,7 +48058,7 @@ data = {
 				GainCalc:-95.0,
 				currWealth:2405.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -48096,7 +48096,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -48132,7 +48132,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.0,
@@ -48168,7 +48168,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.2,
@@ -48204,7 +48204,7 @@ data = {
 				GainCalc:205.0,
 				currWealth:2705.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.6,
@@ -48240,7 +48240,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -48278,7 +48278,7 @@ data = {
 				GainCalc:140.0,
 				currWealth:2640.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.2,
@@ -48314,7 +48314,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.0,
@@ -48350,7 +48350,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:14.2,
@@ -48386,7 +48386,7 @@ data = {
 				GainCalc:355.0,
 				currWealth:2855.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:7.0,
@@ -48422,7 +48422,7 @@ data = {
 				GainCalc:175.0,
 				currWealth:2675.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -48460,7 +48460,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -48496,7 +48496,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.8,
@@ -48532,7 +48532,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.2,
@@ -48568,7 +48568,7 @@ data = {
 				GainCalc:255.0,
 				currWealth:2755.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:3.4,
@@ -48604,7 +48604,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -48642,7 +48642,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -48678,7 +48678,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -48714,7 +48714,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -48750,7 +48750,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -48786,7 +48786,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -48824,7 +48824,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -48860,7 +48860,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -48896,7 +48896,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -48932,7 +48932,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -48968,7 +48968,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -49006,7 +49006,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49042,7 +49042,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49078,7 +49078,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -49114,7 +49114,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -49150,7 +49150,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -49188,7 +49188,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49224,7 +49224,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49260,7 +49260,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -49296,7 +49296,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -49332,7 +49332,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -49370,7 +49370,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49406,7 +49406,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49442,7 +49442,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -49478,7 +49478,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -49514,7 +49514,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -49552,7 +49552,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49588,7 +49588,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49624,7 +49624,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -49660,7 +49660,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -49696,7 +49696,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -49734,7 +49734,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49770,7 +49770,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49806,7 +49806,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -49842,7 +49842,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -49878,7 +49878,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -49916,7 +49916,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -49952,7 +49952,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -49988,7 +49988,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -50024,7 +50024,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -50060,7 +50060,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -50098,7 +50098,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -50134,7 +50134,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.4,
@@ -50170,7 +50170,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.2,
@@ -50206,7 +50206,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -50242,7 +50242,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -50280,7 +50280,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.8,
@@ -50316,7 +50316,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.0,
@@ -50352,7 +50352,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.6,
@@ -50388,7 +50388,7 @@ data = {
 				GainCalc:215.0,
 				currWealth:2715.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:2.0,
@@ -50424,7 +50424,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -50462,7 +50462,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -50498,7 +50498,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -50534,7 +50534,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.4,
@@ -50570,7 +50570,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.6,
@@ -50606,7 +50606,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -50644,7 +50644,7 @@ data = {
 				GainCalc:-105.0,
 				currWealth:2395.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -50680,7 +50680,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -50716,7 +50716,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.4,
@@ -50752,7 +50752,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.4,
@@ -50788,7 +50788,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -50826,7 +50826,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.2,
@@ -50862,7 +50862,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-5.0,
@@ -50898,7 +50898,7 @@ data = {
 				GainCalc:-125.0,
 				currWealth:2375.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -50934,7 +50934,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-9.0,
@@ -50970,7 +50970,7 @@ data = {
 				GainCalc:-225.0,
 				currWealth:2275.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -51008,7 +51008,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.2,
@@ -51044,7 +51044,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-5.0,
@@ -51080,7 +51080,7 @@ data = {
 				GainCalc:-125.0,
 				currWealth:2375.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -51116,7 +51116,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-11.2,
@@ -51152,7 +51152,7 @@ data = {
 				GainCalc:-280.0,
 				currWealth:2220.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -51190,7 +51190,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.2,
@@ -51226,7 +51226,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-5.0,
@@ -51262,7 +51262,7 @@ data = {
 				GainCalc:-125.0,
 				currWealth:2375.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -51298,7 +51298,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-11.2,
@@ -51334,7 +51334,7 @@ data = {
 				GainCalc:-280.0,
 				currWealth:2220.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -51372,7 +51372,7 @@ data = {
 				GainCalc:-250.0,
 				currWealth:2250.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.2,
@@ -51408,7 +51408,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.6,
@@ -51444,7 +51444,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.8,
@@ -51480,7 +51480,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-6.8,
@@ -51516,7 +51516,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -51554,7 +51554,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.0,
@@ -51590,7 +51590,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.6,
@@ -51626,7 +51626,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:5.8,
@@ -51662,7 +51662,7 @@ data = {
 				GainCalc:145.0,
 				currWealth:2645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -51698,7 +51698,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -51736,7 +51736,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.4,
@@ -51772,7 +51772,7 @@ data = {
 				GainCalc:35.0,
 				currWealth:2535.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.6,
@@ -51808,7 +51808,7 @@ data = {
 				GainCalc:65.0,
 				currWealth:2565.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.4,
@@ -51844,7 +51844,7 @@ data = {
 				GainCalc:310.0,
 				currWealth:2810.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.4,
@@ -51880,7 +51880,7 @@ data = {
 				GainCalc:160.0,
 				currWealth:2660.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -51918,7 +51918,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.0,
@@ -51954,7 +51954,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:6.2,
@@ -51990,7 +51990,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:16.8,
@@ -52026,7 +52026,7 @@ data = {
 				GainCalc:420.0,
 				currWealth:2920.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.8,
@@ -52062,7 +52062,7 @@ data = {
 				GainCalc:270.0,
 				currWealth:2770.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -52100,7 +52100,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:6.0,
@@ -52136,7 +52136,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:12.2,
@@ -52172,7 +52172,7 @@ data = {
 				GainCalc:305.0,
 				currWealth:2805.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:23.4,
@@ -52208,7 +52208,7 @@ data = {
 				GainCalc:585.0,
 				currWealth:3085.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:17.4,
@@ -52244,7 +52244,7 @@ data = {
 				GainCalc:435.0,
 				currWealth:2935.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -52284,7 +52284,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -52320,7 +52320,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -52356,7 +52356,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -52392,7 +52392,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -52428,7 +52428,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -52466,7 +52466,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:6.0,
@@ -52502,7 +52502,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -52538,7 +52538,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -52574,7 +52574,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -52610,7 +52610,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -52648,7 +52648,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.0,
@@ -52684,7 +52684,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -52720,7 +52720,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -52756,7 +52756,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -52792,7 +52792,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -52830,7 +52830,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -52866,7 +52866,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -52902,7 +52902,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -52938,7 +52938,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -52974,7 +52974,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -53012,7 +53012,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53048,7 +53048,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53084,7 +53084,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -53120,7 +53120,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -53156,7 +53156,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -53194,7 +53194,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53230,7 +53230,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53266,7 +53266,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -53302,7 +53302,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -53338,7 +53338,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -53376,7 +53376,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53412,7 +53412,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53448,7 +53448,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -53484,7 +53484,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -53520,7 +53520,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -53558,7 +53558,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53594,7 +53594,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53630,7 +53630,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -53666,7 +53666,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -53702,7 +53702,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -53740,7 +53740,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53776,7 +53776,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53812,7 +53812,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -53848,7 +53848,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -53884,7 +53884,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -53922,7 +53922,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -53958,7 +53958,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -53994,7 +53994,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54030,7 +54030,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54066,7 +54066,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -54104,7 +54104,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -54140,7 +54140,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -54176,7 +54176,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54212,7 +54212,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54248,7 +54248,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -54286,7 +54286,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -54322,7 +54322,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -54358,7 +54358,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54394,7 +54394,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54430,7 +54430,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -54468,7 +54468,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -54504,7 +54504,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -54540,7 +54540,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54576,7 +54576,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54612,7 +54612,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -54650,7 +54650,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -54686,7 +54686,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -54722,7 +54722,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54758,7 +54758,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54794,7 +54794,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -54832,7 +54832,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:7.2,
@@ -54868,7 +54868,7 @@ data = {
 				GainCalc:180.0,
 				currWealth:2680.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -54904,7 +54904,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-1.8,
@@ -54940,7 +54940,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.4,
@@ -54976,7 +54976,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -55014,7 +55014,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:12.0,
@@ -55050,7 +55050,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.2,
@@ -55086,7 +55086,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.8,
@@ -55122,7 +55122,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.4,
@@ -55158,7 +55158,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -55196,7 +55196,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:9.6,
@@ -55232,7 +55232,7 @@ data = {
 				GainCalc:240.0,
 				currWealth:2740.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -55268,7 +55268,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.4,
@@ -55304,7 +55304,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -55340,7 +55340,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -55378,7 +55378,7 @@ data = {
 				GainCalc:155.0,
 				currWealth:2655.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:12.0,
@@ -55414,7 +55414,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.0,
@@ -55450,7 +55450,7 @@ data = {
 				GainCalc:-25.0,
 				currWealth:2475.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-0.4,
@@ -55486,7 +55486,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-0.2,
@@ -55522,7 +55522,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -55560,7 +55560,7 @@ data = {
 				GainCalc:210.0,
 				currWealth:2710.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:14.4,
@@ -55596,7 +55596,7 @@ data = {
 				GainCalc:360.0,
 				currWealth:2860.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.2,
@@ -55632,7 +55632,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.6,
@@ -55668,7 +55668,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.2,
@@ -55704,7 +55704,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -55742,7 +55742,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:7.2,
@@ -55778,7 +55778,7 @@ data = {
 				GainCalc:180.0,
 				currWealth:2680.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.4,
@@ -55814,7 +55814,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-4.4,
@@ -55850,7 +55850,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -55886,7 +55886,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -55924,7 +55924,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -55960,7 +55960,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.8,
@@ -55996,7 +55996,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -56032,7 +56032,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -56068,7 +56068,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -56106,7 +56106,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -56142,7 +56142,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.8,
@@ -56178,7 +56178,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -56214,7 +56214,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -56250,7 +56250,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -56288,7 +56288,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -56324,7 +56324,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.8,
@@ -56360,7 +56360,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -56396,7 +56396,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -56432,7 +56432,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -56470,7 +56470,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:7.2,
@@ -56506,7 +56506,7 @@ data = {
 				GainCalc:180.0,
 				currWealth:2680.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-4.8,
@@ -56542,7 +56542,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-5.2,
@@ -56578,7 +56578,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.2,
@@ -56614,7 +56614,7 @@ data = {
 				GainCalc:-55.0,
 				currWealth:2445.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -56652,7 +56652,7 @@ data = {
 				GainCalc:-230.0,
 				currWealth:2270.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -56688,7 +56688,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -56724,7 +56724,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.2,
@@ -56760,7 +56760,7 @@ data = {
 				GainCalc:-280.0,
 				currWealth:2220.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.4,
@@ -56796,7 +56796,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -56834,7 +56834,7 @@ data = {
 				GainCalc:-230.0,
 				currWealth:2270.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:7.2,
@@ -56870,7 +56870,7 @@ data = {
 				GainCalc:180.0,
 				currWealth:2680.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-7.2,
@@ -56906,7 +56906,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-11.2,
@@ -56942,7 +56942,7 @@ data = {
 				GainCalc:-280.0,
 				currWealth:2220.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.4,
@@ -56978,7 +56978,7 @@ data = {
 				GainCalc:-85.0,
 				currWealth:2415.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -57016,7 +57016,7 @@ data = {
 				GainCalc:-380.0,
 				currWealth:2120.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -57052,7 +57052,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-9.0,
@@ -57088,7 +57088,7 @@ data = {
 				GainCalc:-225.0,
 				currWealth:2275.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-16.6,
@@ -57124,7 +57124,7 @@ data = {
 				GainCalc:-415.0,
 				currWealth:2085.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.6,
@@ -57160,7 +57160,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -57198,7 +57198,7 @@ data = {
 				GainCalc:-380.0,
 				currWealth:2120.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -57234,7 +57234,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-9.0,
@@ -57270,7 +57270,7 @@ data = {
 				GainCalc:-225.0,
 				currWealth:2275.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-16.6,
@@ -57306,7 +57306,7 @@ data = {
 				GainCalc:-415.0,
 				currWealth:2085.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-4.6,
@@ -57342,7 +57342,7 @@ data = {
 				GainCalc:-115.0,
 				currWealth:2385.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -57380,7 +57380,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.8,
@@ -57416,7 +57416,7 @@ data = {
 				GainCalc:-120.0,
 				currWealth:2380.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -57452,7 +57452,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -57488,7 +57488,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -57524,7 +57524,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -57562,7 +57562,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-7.2,
@@ -57598,7 +57598,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -57634,7 +57634,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -57670,7 +57670,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -57706,7 +57706,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -57744,7 +57744,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-7.2,
@@ -57780,7 +57780,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -57816,7 +57816,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -57852,7 +57852,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -57888,7 +57888,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -57926,7 +57926,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-7.2,
@@ -57962,7 +57962,7 @@ data = {
 				GainCalc:-180.0,
 				currWealth:2320.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -57998,7 +57998,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58034,7 +58034,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58070,7 +58070,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -58108,7 +58108,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -58144,7 +58144,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -58180,7 +58180,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58216,7 +58216,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58252,7 +58252,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -58290,7 +58290,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -58326,7 +58326,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -58362,7 +58362,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58398,7 +58398,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58434,7 +58434,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -58472,7 +58472,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -58508,7 +58508,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -58544,7 +58544,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58580,7 +58580,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58616,7 +58616,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -58654,7 +58654,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -58690,7 +58690,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -58726,7 +58726,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58762,7 +58762,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58798,7 +58798,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -58836,7 +58836,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -58872,7 +58872,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -58908,7 +58908,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -58944,7 +58944,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -58980,7 +58980,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -59018,7 +59018,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-14.4,
@@ -59054,7 +59054,7 @@ data = {
 				GainCalc:-360.0,
 				currWealth:2140.0,
 				a_diff:15.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -59090,7 +59090,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -59126,7 +59126,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -59162,7 +59162,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -59200,7 +59200,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-23.4,
@@ -59236,7 +59236,7 @@ data = {
 				GainCalc:-585.0,
 				currWealth:1915.0,
 				a_diff:-15.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -59272,7 +59272,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -59308,7 +59308,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -59344,7 +59344,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -59382,7 +59382,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-23.4,
@@ -59418,7 +59418,7 @@ data = {
 				GainCalc:-585.0,
 				currWealth:1915.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -59454,7 +59454,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -59490,7 +59490,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -59526,7 +59526,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -59564,7 +59564,7 @@ data = {
 				GainCalc:-530.0,
 				currWealth:1970.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-23.4,
@@ -59600,7 +59600,7 @@ data = {
 				GainCalc:-585.0,
 				currWealth:1915.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-10.8,
@@ -59636,7 +59636,7 @@ data = {
 				GainCalc:-270.0,
 				currWealth:2230.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:-21.4,
@@ -59672,7 +59672,7 @@ data = {
 				GainCalc:-535.0,
 				currWealth:1965.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-5.2,
@@ -59708,7 +59708,7 @@ data = {
 				GainCalc:-130.0,
 				currWealth:2370.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -59748,7 +59748,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -59784,7 +59784,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -59820,7 +59820,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -59856,7 +59856,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -59892,7 +59892,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -59930,7 +59930,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -59966,7 +59966,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -60002,7 +60002,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -60038,7 +60038,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -60074,7 +60074,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -60112,7 +60112,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -60148,7 +60148,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -60184,7 +60184,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -60220,7 +60220,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -60256,7 +60256,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -60294,7 +60294,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -60330,7 +60330,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -60366,7 +60366,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -60402,7 +60402,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-2.0,
@@ -60438,7 +60438,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -60476,7 +60476,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -60512,7 +60512,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -60548,7 +60548,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -60584,7 +60584,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -60620,7 +60620,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -60658,7 +60658,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:2.4,
@@ -60694,7 +60694,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.4,
@@ -60730,7 +60730,7 @@ data = {
 				GainCalc:85.0,
 				currWealth:2585.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -60766,7 +60766,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -60802,7 +60802,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -60840,7 +60840,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:3.8,
@@ -60876,7 +60876,7 @@ data = {
 				GainCalc:95.0,
 				currWealth:2595.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:5.2,
@@ -60912,7 +60912,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:8.0,
@@ -60948,7 +60948,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -60984,7 +60984,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -61022,7 +61022,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.2,
@@ -61058,7 +61058,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.6,
@@ -61094,7 +61094,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -61130,7 +61130,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -61166,7 +61166,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -61204,7 +61204,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -61240,7 +61240,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -61276,7 +61276,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -61312,7 +61312,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -61348,7 +61348,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -61386,7 +61386,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -61422,7 +61422,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -61458,7 +61458,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -61494,7 +61494,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -61530,7 +61530,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -61568,7 +61568,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -61604,7 +61604,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -61640,7 +61640,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -61676,7 +61676,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -61712,7 +61712,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -61750,7 +61750,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -61786,7 +61786,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -61822,7 +61822,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -61858,7 +61858,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -61894,7 +61894,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -61932,7 +61932,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -61968,7 +61968,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62004,7 +62004,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62040,7 +62040,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -62076,7 +62076,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -62114,7 +62114,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -62150,7 +62150,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62186,7 +62186,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62222,7 +62222,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-1.8,
@@ -62258,7 +62258,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -62296,7 +62296,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -62332,7 +62332,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62368,7 +62368,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62404,7 +62404,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -62440,7 +62440,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -62478,7 +62478,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -62514,7 +62514,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62550,7 +62550,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62586,7 +62586,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -62622,7 +62622,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -62660,7 +62660,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -62696,7 +62696,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62732,7 +62732,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62768,7 +62768,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -62804,7 +62804,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -62842,7 +62842,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -62878,7 +62878,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -62914,7 +62914,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -62950,7 +62950,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -62986,7 +62986,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -63024,7 +63024,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -63060,7 +63060,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -63096,7 +63096,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -63132,7 +63132,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -63168,7 +63168,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -63206,7 +63206,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -63242,7 +63242,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -63278,7 +63278,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -63314,7 +63314,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -63350,7 +63350,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -63388,7 +63388,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -63424,7 +63424,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -63460,7 +63460,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -63496,7 +63496,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -63532,7 +63532,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -63570,7 +63570,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -63606,7 +63606,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -63642,7 +63642,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.0,
@@ -63678,7 +63678,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -63714,7 +63714,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -63752,7 +63752,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.6,
@@ -63788,7 +63788,7 @@ data = {
 				GainCalc:15.0,
 				currWealth:2515.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.4,
@@ -63824,7 +63824,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:5.2,
@@ -63860,7 +63860,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -63896,7 +63896,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -63934,7 +63934,7 @@ data = {
 				GainCalc:55.0,
 				currWealth:2555.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.2,
@@ -63970,7 +63970,7 @@ data = {
 				GainCalc:105.0,
 				currWealth:2605.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:9.0,
@@ -64006,7 +64006,7 @@ data = {
 				GainCalc:225.0,
 				currWealth:2725.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:11.8,
@@ -64042,7 +64042,7 @@ data = {
 				GainCalc:295.0,
 				currWealth:2795.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:13.2,
@@ -64078,7 +64078,7 @@ data = {
 				GainCalc:330.0,
 				currWealth:2830.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -64116,7 +64116,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -64152,7 +64152,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.4,
@@ -64188,7 +64188,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:5.2,
@@ -64224,7 +64224,7 @@ data = {
 				GainCalc:130.0,
 				currWealth:2630.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -64260,7 +64260,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -64298,7 +64298,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.2,
@@ -64334,7 +64334,7 @@ data = {
 				GainCalc:-5.0,
 				currWealth:2495.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:6.8,
@@ -64370,7 +64370,7 @@ data = {
 				GainCalc:170.0,
 				currWealth:2670.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.8,
@@ -64406,7 +64406,7 @@ data = {
 				GainCalc:170.0,
 				currWealth:2670.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.8,
@@ -64442,7 +64442,7 @@ data = {
 				GainCalc:270.0,
 				currWealth:2770.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -64480,7 +64480,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.8,
@@ -64516,7 +64516,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:9.0,
@@ -64552,7 +64552,7 @@ data = {
 				GainCalc:225.0,
 				currWealth:2725.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:9.0,
@@ -64588,7 +64588,7 @@ data = {
 				GainCalc:225.0,
 				currWealth:2725.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:13.2,
@@ -64624,7 +64624,7 @@ data = {
 				GainCalc:330.0,
 				currWealth:2830.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -64662,7 +64662,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.0,
@@ -64698,7 +64698,7 @@ data = {
 				GainCalc:-100.0,
 				currWealth:2400.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.4,
@@ -64734,7 +64734,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:2.4,
@@ -64770,7 +64770,7 @@ data = {
 				GainCalc:60.0,
 				currWealth:2560.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -64806,7 +64806,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -64844,7 +64844,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -64880,7 +64880,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -64916,7 +64916,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-11.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -64952,7 +64952,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -64988,7 +64988,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -65026,7 +65026,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65062,7 +65062,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -65098,7 +65098,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -65134,7 +65134,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -65170,7 +65170,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -65208,7 +65208,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65244,7 +65244,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -65280,7 +65280,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -65316,7 +65316,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -65352,7 +65352,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -65390,7 +65390,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65426,7 +65426,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -65462,7 +65462,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -65498,7 +65498,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -65534,7 +65534,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -65572,7 +65572,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65608,7 +65608,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -65644,7 +65644,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -65680,7 +65680,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:1.2,
@@ -65716,7 +65716,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -65754,7 +65754,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65790,7 +65790,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -65826,7 +65826,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -65862,7 +65862,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -65898,7 +65898,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -65936,7 +65936,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -65972,7 +65972,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -66008,7 +66008,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -66044,7 +66044,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -66080,7 +66080,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -66118,7 +66118,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -66154,7 +66154,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -66190,7 +66190,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -66226,7 +66226,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -66262,7 +66262,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -66300,7 +66300,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -66336,7 +66336,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -66372,7 +66372,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -66408,7 +66408,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-3.6,
@@ -66444,7 +66444,7 @@ data = {
 				GainCalc:-90.0,
 				currWealth:2410.0,
 				a_diff:13.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -66482,7 +66482,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -66518,7 +66518,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -66554,7 +66554,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -66590,7 +66590,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-8.8,
@@ -66626,7 +66626,7 @@ data = {
 				GainCalc:-220.0,
 				currWealth:2280.0,
 				a_diff:-13.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -66664,7 +66664,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -66700,7 +66700,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -66736,7 +66736,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:1.2,
@@ -66772,7 +66772,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-8.8,
@@ -66808,7 +66808,7 @@ data = {
 				GainCalc:-220.0,
 				currWealth:2280.0,
 				a_diff:12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -66846,7 +66846,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -66882,7 +66882,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.8,
@@ -66918,7 +66918,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.8,
@@ -66954,7 +66954,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.6,
@@ -66990,7 +66990,7 @@ data = {
 				GainCalc:-340.0,
 				currWealth:2160.0,
 				a_diff:-12.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -67028,7 +67028,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-4.4,
@@ -67064,7 +67064,7 @@ data = {
 				GainCalc:-110.0,
 				currWealth:2390.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-6.8,
@@ -67100,7 +67100,7 @@ data = {
 				GainCalc:-170.0,
 				currWealth:2330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.8,
@@ -67136,7 +67136,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:-13.6,
@@ -67172,7 +67172,7 @@ data = {
 				GainCalc:-340.0,
 				currWealth:2160.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
@@ -67212,7 +67212,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -67248,7 +67248,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -67284,7 +67284,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:0.0,
@@ -67320,7 +67320,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:0.0,
@@ -67356,7 +67356,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_1: {
@@ -67394,7 +67394,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.0,
@@ -67430,7 +67430,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.0,
@@ -67466,7 +67466,7 @@ data = {
 				GainCalc:0.0,
 				currWealth:2500.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:4.0,
@@ -67502,7 +67502,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:4.0,
@@ -67538,7 +67538,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_2: {
@@ -67576,7 +67576,7 @@ data = {
 				GainCalc:135.0,
 				currWealth:2635.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.2,
@@ -67612,7 +67612,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:3.0,
@@ -67648,7 +67648,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.0,
@@ -67684,7 +67684,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.0,
@@ -67720,7 +67720,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_3: {
@@ -67758,7 +67758,7 @@ data = {
 				GainCalc:45.0,
 				currWealth:2545.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.4,
@@ -67794,7 +67794,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.2,
@@ -67830,7 +67830,7 @@ data = {
 				GainCalc:5.0,
 				currWealth:2505.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:6.0,
@@ -67866,7 +67866,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:6.0,
@@ -67902,7 +67902,7 @@ data = {
 				GainCalc:150.0,
 				currWealth:2650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_4: {
@@ -67940,7 +67940,7 @@ data = {
 				GainCalc:75.0,
 				currWealth:2575.0,
 				a_diff:7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.4,
@@ -67976,7 +67976,7 @@ data = {
 				GainCalc:-10.0,
 				currWealth:2490.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:0.8,
@@ -68012,7 +68012,7 @@ data = {
 				GainCalc:20.0,
 				currWealth:2520.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -68048,7 +68048,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:12.0,
@@ -68084,7 +68084,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_5: {
@@ -68122,7 +68122,7 @@ data = {
 				GainCalc:165.0,
 				currWealth:2665.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:0.4,
@@ -68158,7 +68158,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:2.8,
@@ -68194,7 +68194,7 @@ data = {
 				GainCalc:70.0,
 				currWealth:2570.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:16.0,
@@ -68230,7 +68230,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:16.0,
@@ -68266,7 +68266,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_6: {
@@ -68304,7 +68304,7 @@ data = {
 				GainCalc:30.0,
 				currWealth:2530.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.0,
@@ -68340,7 +68340,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.0,
@@ -68376,7 +68376,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:-7.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:10.0,
@@ -68412,7 +68412,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:10.0,
@@ -68448,7 +68448,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_7: {
@@ -68486,7 +68486,7 @@ data = {
 				GainCalc:50.0,
 				currWealth:2550.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.0,
@@ -68522,7 +68522,7 @@ data = {
 				GainCalc:-50.0,
 				currWealth:2450.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-1.6,
@@ -68558,7 +68558,7 @@ data = {
 				GainCalc:-40.0,
 				currWealth:2460.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:14.0,
@@ -68594,7 +68594,7 @@ data = {
 				GainCalc:350.0,
 				currWealth:2850.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:14.0,
@@ -68630,7 +68630,7 @@ data = {
 				GainCalc:350.0,
 				currWealth:2850.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_8: {
@@ -68668,7 +68668,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -68704,7 +68704,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -68740,7 +68740,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:-5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -68776,7 +68776,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:12.0,
@@ -68812,7 +68812,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_9: {
@@ -68850,7 +68850,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -68886,7 +68886,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -68922,7 +68922,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -68958,7 +68958,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -68994,7 +68994,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_10: {
@@ -69032,7 +69032,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -69068,7 +69068,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -69104,7 +69104,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -69140,7 +69140,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -69176,7 +69176,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_11: {
@@ -69214,7 +69214,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -69250,7 +69250,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -69286,7 +69286,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -69322,7 +69322,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -69358,7 +69358,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_12: {
@@ -69396,7 +69396,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -69432,7 +69432,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -69468,7 +69468,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -69504,7 +69504,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -69540,7 +69540,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_13: {
@@ -69578,7 +69578,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -69614,7 +69614,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -69650,7 +69650,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -69686,7 +69686,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -69722,7 +69722,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_14: {
@@ -69760,7 +69760,7 @@ data = {
 				GainCalc:10.0,
 				currWealth:2510.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-2.4,
@@ -69796,7 +69796,7 @@ data = {
 				GainCalc:-60.0,
 				currWealth:2440.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-2.6,
@@ -69832,7 +69832,7 @@ data = {
 				GainCalc:-65.0,
 				currWealth:2435.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:12.0,
@@ -69868,7 +69868,7 @@ data = {
 				GainCalc:300.0,
 				currWealth:2800.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:8.0,
@@ -69904,7 +69904,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_15: {
@@ -69942,7 +69942,7 @@ data = {
 				GainCalc:145.0,
 				currWealth:2645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-1.8,
@@ -69978,7 +69978,7 @@ data = {
 				GainCalc:-45.0,
 				currWealth:2455.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:-0.8,
@@ -70014,7 +70014,7 @@ data = {
 				GainCalc:-20.0,
 				currWealth:2480.0,
 				a_diff:3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:18.0,
@@ -70050,7 +70050,7 @@ data = {
 				GainCalc:450.0,
 				currWealth:2950.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:13.4,
@@ -70086,7 +70086,7 @@ data = {
 				GainCalc:335.0,
 				currWealth:2835.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_16: {
@@ -70124,7 +70124,7 @@ data = {
 				GainCalc:235.0,
 				currWealth:2735.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:-0.6,
@@ -70160,7 +70160,7 @@ data = {
 				GainCalc:-15.0,
 				currWealth:2485.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:1.6,
@@ -70196,7 +70196,7 @@ data = {
 				GainCalc:40.0,
 				currWealth:2540.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:22.0,
@@ -70232,7 +70232,7 @@ data = {
 				GainCalc:550.0,
 				currWealth:3050.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:17.0,
@@ -70268,7 +70268,7 @@ data = {
 				GainCalc:425.0,
 				currWealth:2925.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_17: {
@@ -70306,7 +70306,7 @@ data = {
 				GainCalc:325.0,
 				currWealth:2825.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:1.0,
@@ -70342,7 +70342,7 @@ data = {
 				GainCalc:25.0,
 				currWealth:2525.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:4.8,
@@ -70378,7 +70378,7 @@ data = {
 				GainCalc:120.0,
 				currWealth:2620.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:26.0,
@@ -70414,7 +70414,7 @@ data = {
 				GainCalc:650.0,
 				currWealth:3150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:20.6,
@@ -70450,7 +70450,7 @@ data = {
 				GainCalc:515.0,
 				currWealth:3015.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_18: {
@@ -70488,7 +70488,7 @@ data = {
 				GainCalc:460.0,
 				currWealth:2960.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:4.0,
@@ -70524,7 +70524,7 @@ data = {
 				GainCalc:100.0,
 				currWealth:2600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:9.6,
@@ -70560,7 +70560,7 @@ data = {
 				GainCalc:240.0,
 				currWealth:2740.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:32.0,
@@ -70596,7 +70596,7 @@ data = {
 				GainCalc:800.0,
 				currWealth:3300.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:26.0,
@@ -70632,7 +70632,7 @@ data = {
 				GainCalc:650.0,
 				currWealth:3150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_19: {
@@ -70670,7 +70670,7 @@ data = {
 				GainCalc:505.0,
 				currWealth:3005.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:5.0,
@@ -70706,7 +70706,7 @@ data = {
 				GainCalc:125.0,
 				currWealth:2625.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:11.2,
@@ -70742,7 +70742,7 @@ data = {
 				GainCalc:280.0,
 				currWealth:2780.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:34.0,
@@ -70778,7 +70778,7 @@ data = {
 				GainCalc:850.0,
 				currWealth:3350.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:27.8,
@@ -70814,7 +70814,7 @@ data = {
 				GainCalc:695.0,
 				currWealth:3195.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_20: {
@@ -70852,7 +70852,7 @@ data = {
 				GainCalc:640.0,
 				currWealth:3140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:8.0,
@@ -70888,7 +70888,7 @@ data = {
 				GainCalc:200.0,
 				currWealth:2700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:16.0,
@@ -70924,7 +70924,7 @@ data = {
 				GainCalc:400.0,
 				currWealth:2900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:40.0,
@@ -70960,7 +70960,7 @@ data = {
 				GainCalc:1000.0,
 				currWealth:3500.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:33.2,
@@ -70996,7 +70996,7 @@ data = {
 				GainCalc:830.0,
 				currWealth:3330.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_21: {
@@ -71034,7 +71034,7 @@ data = {
 				GainCalc:775.0,
 				currWealth:3275.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:11.0,
@@ -71070,7 +71070,7 @@ data = {
 				GainCalc:275.0,
 				currWealth:2775.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:20.8,
@@ -71106,7 +71106,7 @@ data = {
 				GainCalc:520.0,
 				currWealth:3020.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:46.0,
@@ -71142,7 +71142,7 @@ data = {
 				GainCalc:1150.0,
 				currWealth:3650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:38.6,
@@ -71178,7 +71178,7 @@ data = {
 				GainCalc:965.0,
 				currWealth:3465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_22: {
@@ -71216,7 +71216,7 @@ data = {
 				GainCalc:865.0,
 				currWealth:3365.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:13.4,
@@ -71252,7 +71252,7 @@ data = {
 				GainCalc:335.0,
 				currWealth:2835.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:24.0,
@@ -71288,7 +71288,7 @@ data = {
 				GainCalc:600.0,
 				currWealth:3100.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:50.0,
@@ -71324,7 +71324,7 @@ data = {
 				GainCalc:1250.0,
 				currWealth:3750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:42.2,
@@ -71360,7 +71360,7 @@ data = {
 				GainCalc:1055.0,
 				currWealth:3555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_23: {
@@ -71398,7 +71398,7 @@ data = {
 				GainCalc:775.0,
 				currWealth:3275.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:11.0,
@@ -71434,7 +71434,7 @@ data = {
 				GainCalc:275.0,
 				currWealth:2775.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:20.8,
@@ -71470,7 +71470,7 @@ data = {
 				GainCalc:520.0,
 				currWealth:3020.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:46.0,
@@ -71506,7 +71506,7 @@ data = {
 				GainCalc:1150.0,
 				currWealth:3650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:38.6,
@@ -71542,7 +71542,7 @@ data = {
 				GainCalc:965.0,
 				currWealth:3465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_24: {
@@ -71580,7 +71580,7 @@ data = {
 				GainCalc:910.0,
 				currWealth:3410.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:12.2,
@@ -71616,7 +71616,7 @@ data = {
 				GainCalc:305.0,
 				currWealth:2805.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:23.2,
@@ -71652,7 +71652,7 @@ data = {
 				GainCalc:580.0,
 				currWealth:3080.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:52.0,
@@ -71688,7 +71688,7 @@ data = {
 				GainCalc:1300.0,
 				currWealth:3800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:44.0,
@@ -71724,7 +71724,7 @@ data = {
 				GainCalc:1100.0,
 				currWealth:3600.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_25: {
@@ -71762,7 +71762,7 @@ data = {
 				GainCalc:775.0,
 				currWealth:3275.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:9.8,
@@ -71798,7 +71798,7 @@ data = {
 				GainCalc:245.0,
 				currWealth:2745.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:18.4,
@@ -71834,7 +71834,7 @@ data = {
 				GainCalc:460.0,
 				currWealth:2960.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:46.0,
@@ -71870,7 +71870,7 @@ data = {
 				GainCalc:1150.0,
 				currWealth:3650.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:38.6,
@@ -71906,7 +71906,7 @@ data = {
 				GainCalc:965.0,
 				currWealth:3465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_26: {
@@ -71944,7 +71944,7 @@ data = {
 				GainCalc:775.0,
 				currWealth:3275.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:9.8,
@@ -71980,7 +71980,7 @@ data = {
 				GainCalc:245.0,
 				currWealth:2745.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:18.4,
@@ -72016,7 +72016,7 @@ data = {
 				GainCalc:460.0,
 				currWealth:2960.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:46.0,
@@ -72052,7 +72052,7 @@ data = {
 				GainCalc:1150.0,
 				currWealth:3650.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:36.8,
@@ -72088,7 +72088,7 @@ data = {
 				GainCalc:920.0,
 				currWealth:3420.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_27: {
@@ -72126,7 +72126,7 @@ data = {
 				GainCalc:775.0,
 				currWealth:3275.0,
 				a_diff:6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:9.8,
@@ -72162,7 +72162,7 @@ data = {
 				GainCalc:245.0,
 				currWealth:2745.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:18.4,
@@ -72198,7 +72198,7 @@ data = {
 				GainCalc:460.0,
 				currWealth:2960.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:46.0,
@@ -72234,7 +72234,7 @@ data = {
 				GainCalc:1150.0,
 				currWealth:3650.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:36.8,
@@ -72270,7 +72270,7 @@ data = {
 				GainCalc:920.0,
 				currWealth:3420.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_28: {
@@ -72308,7 +72308,7 @@ data = {
 				GainCalc:805.0,
 				currWealth:3305.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:10.0,
@@ -72344,7 +72344,7 @@ data = {
 				GainCalc:250.0,
 				currWealth:2750.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:18.8,
@@ -72380,7 +72380,7 @@ data = {
 				GainCalc:470.0,
 				currWealth:2970.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:48.0,
@@ -72416,7 +72416,7 @@ data = {
 				GainCalc:1200.0,
 				currWealth:3700.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:38.6,
@@ -72452,7 +72452,7 @@ data = {
 				GainCalc:965.0,
 				currWealth:3465.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_29: {
@@ -72490,7 +72490,7 @@ data = {
 				GainCalc:885.0,
 				currWealth:3385.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:11.2,
@@ -72526,7 +72526,7 @@ data = {
 				GainCalc:280.0,
 				currWealth:2780.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:21.2,
@@ -72562,7 +72562,7 @@ data = {
 				GainCalc:530.0,
 				currWealth:3030.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:52.0,
@@ -72598,7 +72598,7 @@ data = {
 				GainCalc:1300.0,
 				currWealth:3800.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:42.2,
@@ -72634,7 +72634,7 @@ data = {
 				GainCalc:1055.0,
 				currWealth:3555.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_30: {
@@ -72672,7 +72672,7 @@ data = {
 				GainCalc:845.0,
 				currWealth:3345.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:10.4,
@@ -72708,7 +72708,7 @@ data = {
 				GainCalc:260.0,
 				currWealth:2760.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:19.8,
@@ -72744,7 +72744,7 @@ data = {
 				GainCalc:495.0,
 				currWealth:2995.0,
 				a_diff:-6.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:50.0,
@@ -72780,7 +72780,7 @@ data = {
 				GainCalc:1250.0,
 				currWealth:3750.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:40.4,
@@ -72816,7 +72816,7 @@ data = {
 				GainCalc:1010.0,
 				currWealth:3510.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_31: {
@@ -72854,7 +72854,7 @@ data = {
 				GainCalc:905.0,
 				currWealth:3405.0,
 				a_diff:4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:11.0,
@@ -72890,7 +72890,7 @@ data = {
 				GainCalc:275.0,
 				currWealth:2775.0,
 				a_diff:2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:20.4,
@@ -72926,7 +72926,7 @@ data = {
 				GainCalc:510.0,
 				currWealth:3010.0,
 				a_diff:5.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:56.0,
@@ -72962,7 +72962,7 @@ data = {
 				GainCalc:1400.0,
 				currWealth:3900.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:45.8,
@@ -72998,7 +72998,7 @@ data = {
 				GainCalc:1145.0,
 				currWealth:3645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_32: {
@@ -73036,7 +73036,7 @@ data = {
 				GainCalc:985.0,
 				currWealth:3485.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:12.2,
@@ -73072,7 +73072,7 @@ data = {
 				GainCalc:305.0,
 				currWealth:2805.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:22.8,
@@ -73108,7 +73108,7 @@ data = {
 				GainCalc:570.0,
 				currWealth:3070.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:60.0,
@@ -73144,7 +73144,7 @@ data = {
 				GainCalc:1500.0,
 				currWealth:4000.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:49.4,
@@ -73180,7 +73180,7 @@ data = {
 				GainCalc:1235.0,
 				currWealth:3735.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_33: {
@@ -73218,7 +73218,7 @@ data = {
 				GainCalc:1065.0,
 				currWealth:3565.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:13.8,
@@ -73254,7 +73254,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:25.6,
@@ -73290,7 +73290,7 @@ data = {
 				GainCalc:640.0,
 				currWealth:3140.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:64.0,
@@ -73326,7 +73326,7 @@ data = {
 				GainCalc:1600.0,
 				currWealth:4100.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:53.0,
@@ -73362,7 +73362,7 @@ data = {
 				GainCalc:1325.0,
 				currWealth:3825.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_34: {
@@ -73400,7 +73400,7 @@ data = {
 				GainCalc:1145.0,
 				currWealth:3645.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:15.8,
@@ -73436,7 +73436,7 @@ data = {
 				GainCalc:395.0,
 				currWealth:2895.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:28.4,
@@ -73472,7 +73472,7 @@ data = {
 				GainCalc:710.0,
 				currWealth:3210.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:68.0,
@@ -73508,7 +73508,7 @@ data = {
 				GainCalc:1700.0,
 				currWealth:4200.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:56.6,
@@ -73544,7 +73544,7 @@ data = {
 				GainCalc:1415.0,
 				currWealth:3915.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_35: {
@@ -73582,7 +73582,7 @@ data = {
 				GainCalc:1185.0,
 				currWealth:3685.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:17.0,
@@ -73618,7 +73618,7 @@ data = {
 				GainCalc:425.0,
 				currWealth:2925.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:29.8,
@@ -73654,7 +73654,7 @@ data = {
 				GainCalc:745.0,
 				currWealth:3245.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:70.0,
@@ -73690,7 +73690,7 @@ data = {
 				GainCalc:1750.0,
 				currWealth:4250.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:58.4,
@@ -73726,7 +73726,7 @@ data = {
 				GainCalc:1460.0,
 				currWealth:3960.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_36: {
@@ -73764,7 +73764,7 @@ data = {
 				GainCalc:1105.0,
 				currWealth:3605.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:14.6,
@@ -73800,7 +73800,7 @@ data = {
 				GainCalc:365.0,
 				currWealth:2865.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:27.0,
@@ -73836,7 +73836,7 @@ data = {
 				GainCalc:675.0,
 				currWealth:3175.0,
 				a_diff:-3.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:66.0,
@@ -73872,7 +73872,7 @@ data = {
 				GainCalc:1650.0,
 				currWealth:4150.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:54.8,
@@ -73908,7 +73908,7 @@ data = {
 				GainCalc:1370.0,
 				currWealth:3870.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_37: {
@@ -73946,7 +73946,7 @@ data = {
 				GainCalc:1025.0,
 				currWealth:3525.0,
 				a_diff:-8.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:13.8,
@@ -73982,7 +73982,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:-2.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:25.4,
@@ -74018,7 +74018,7 @@ data = {
 				GainCalc:635.0,
 				currWealth:3135.0,
 				a_diff:-4.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:62.0,
@@ -74054,7 +74054,7 @@ data = {
 				GainCalc:1550.0,
 				currWealth:4050.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:51.2,
@@ -74090,7 +74090,7 @@ data = {
 				GainCalc:1280.0,
 				currWealth:3780.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_38: {
@@ -74128,7 +74128,7 @@ data = {
 				GainCalc:1025.0,
 				currWealth:3525.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:13.8,
@@ -74164,7 +74164,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:25.4,
@@ -74200,7 +74200,7 @@ data = {
 				GainCalc:635.0,
 				currWealth:3135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:62.0,
@@ -74236,7 +74236,7 @@ data = {
 				GainCalc:1550.0,
 				currWealth:4050.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:51.2,
@@ -74272,7 +74272,7 @@ data = {
 				GainCalc:1280.0,
 				currWealth:3780.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_39: {
@@ -74310,7 +74310,7 @@ data = {
 				GainCalc:1025.0,
 				currWealth:3525.0,
 				a_diff:1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:13.8,
@@ -74346,7 +74346,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:25.4,
@@ -74382,7 +74382,7 @@ data = {
 				GainCalc:635.0,
 				currWealth:3135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:62.0,
@@ -74418,7 +74418,7 @@ data = {
 				GainCalc:1550.0,
 				currWealth:4050.0,
 				a_diff:10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:51.2,
@@ -74454,7 +74454,7 @@ data = {
 				GainCalc:1280.0,
 				currWealth:3780.0,
 				a_diff:9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		round_40: {
@@ -74492,7 +74492,7 @@ data = {
 				GainCalc:1500.0,
 				currWealth:4000.0,
 				a_diff:-10.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_2: {
 				ongoingReturn:49.4,
@@ -74528,7 +74528,7 @@ data = {
 				GainCalc:1235.0,
 				currWealth:3735.0,
 				a_diff:-9.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_3: {
 				ongoingReturn:40.8,
@@ -74564,7 +74564,7 @@ data = {
 				GainCalc:1020.0,
 				currWealth:3520.0,
 				a_diff:-1.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_4: {
 				ongoingReturn:25.4,
@@ -74600,7 +74600,7 @@ data = {
 				GainCalc:635.0,
 				currWealth:3135.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			rank_5: {
 				ongoingReturn:13.8,
@@ -74636,7 +74636,7 @@ data = {
 				GainCalc:345.0,
 				currWealth:2845.0,
 				a_diff:0.0,
-				type_path:no_risk_start-bottom_low,
+				type_path:"no_risk_start-bottom_low",
 				},
 			},
 		},
