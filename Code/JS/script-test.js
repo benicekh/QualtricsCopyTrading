@@ -78007,11 +78007,8 @@ function generateEstimationLists(DATA) {
     const round = DATA.rounds[key];
     const roundIndex = parseInt(key, 10);
 
-    // Skip the first 5 rounds
-    if (roundIndex <= 4) continue;
-
-    // Skip rounds where r == 40
-    if (round.r === 40) continue;
+    // Skip rounds 0–9 or round 50
+    if ((round, r <= 9 || round, r === 50)) continue;
 
     const a = round.a;
     const p = round.p;
@@ -78025,7 +78022,8 @@ function generateEstimationLists(DATA) {
     increase_probs.push(prob);
     s_obs_list.push(a);
   }
-
+  console.log("round list");
+  console.log(P_list);
   return { E_list, P_list, increase_probs, s_obs_list };
 }
 
