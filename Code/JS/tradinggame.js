@@ -1280,6 +1280,8 @@ const nextPhase = function () {
           result.solution[1].toFixed(3)
         );
 
+        Qualtrics.SurveyEngine.setEmbeddedData("CRRA", rCategory);
+
         function estimateRfromHardmaxReal(
           data,
           rMin = -2.5,
