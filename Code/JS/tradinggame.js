@@ -248,10 +248,15 @@ var randomProperty = function (obj) {
 
 if (Stages[0].stage === "training") {
   pathPrice = [250, 245, 240, 230, 245];
+  pathProb = [0.5, 0.4, 0.35, 0.3, 0.4];
   pathVersion = "training";
 } else {
-  pathPicker();
-  console.log("It picks the new path");
+  const result = pathPicker();
+  if (result) {
+    pathPrice = result.pathPrice;
+    pathProb = result.pathProb;
+    pathVersion = result.pathVersion;
+  }
 }
 
 //pathPrice = pricePaths[pathPicker()];
