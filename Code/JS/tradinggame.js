@@ -1,4 +1,4 @@
-const DEBUG = false;
+const DEBUG = true;
 
 if (!DEBUG) {
   console.log = function () {}; // Disable all console.log calls
