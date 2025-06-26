@@ -1437,7 +1437,12 @@ const initializePhase = function () {
     SCREENELEMENTS.decision_buybutton.classList.add("hidden");
     SCREENELEMENTS.decision_sellbutton.classList.add("hidden");
   }
-  pathPicker();
+  const result = pathPicker();
+  if (result) {
+    pathPrice = result.pathPrice;
+    pathProb = result.pathProb;
+    pathVersion = result.pathVersion;
+  }
 };
 
 //// Check which stage
