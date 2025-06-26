@@ -77965,6 +77965,12 @@ const nextPhase = function () {
       var key = treatment === 1 ? "ElicitationGain" : "FinalGain";
       Qualtrics.SurveyEngine.setEmbeddedData(key, gainValue);
 
+      var key = treatment === 1 ? "ElicitationPayout" : "Payout";
+      Qualtrics.SurveyEngine.setEmbeddedData(
+        key,
+        roundDataStart.cash + gainValue
+      );
+
       Qualtrics.SurveyEngine.setEmbeddedData("WinningRound", winningIndex);
       Qualtrics.SurveyEngine.setEmbeddedData("Endowment", roundDataStart.cash);
       Qualtrics.SurveyEngine.setEmbeddedData(

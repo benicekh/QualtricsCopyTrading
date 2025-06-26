@@ -1331,12 +1331,15 @@ const nextPhase = function () {
       var key = treatment === 1 ? "ElicitationGain" : "FinalGain";
       Qualtrics.SurveyEngine.setEmbeddedData(key, gainValue);
 
-      Qualtrics.SurveyEngine.setEmbeddedData("WinningRound", winningIndex);
-      Qualtrics.SurveyEngine.setEmbeddedData("Endowment", roundDataStart.cash);
+      var key = treatment === 1 ? "ElicitationPayout" : "Payout";
       Qualtrics.SurveyEngine.setEmbeddedData(
-        "Payout",
+        key,
         roundDataStart.cash + gainValue
       );
+
+      Qualtrics.SurveyEngine.setEmbeddedData("WinningRound", winningIndex);
+      Qualtrics.SurveyEngine.setEmbeddedData("Endowment", roundDataStart.cash);
+
       Qualtrics.SurveyEngine.setEmbeddedData(
         "nameList",
         JSON.stringify(scrambledNameList)
