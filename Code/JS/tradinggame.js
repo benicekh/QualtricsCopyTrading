@@ -86,6 +86,8 @@ let pathVersion;
 
 let pathPrice;
 
+let pathProb;
+
 let path;
 
 let copiedTL = null;
