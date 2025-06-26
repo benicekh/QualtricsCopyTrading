@@ -23,6 +23,7 @@ let inertiaTreatment = 1; // 1 keeps traders copied
 if (treatment != 1) {
   //document.getElementById("rounddata").classList.add("hidden");
   document.getElementById("chartwrap").classList.add("hidden");
+  document.getElementById("prob-row").style.display = "none";
 }
 document.getElementById("rounddata").classList.add("hidden");
 document.getElementById("chartdiv").classList.add("hidden");

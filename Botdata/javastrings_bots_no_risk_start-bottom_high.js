@@ -1,4 +1,4 @@
-const data = {
+window.data = {
 	stage_0: {
 		round_0: {
 			rank_1: {
