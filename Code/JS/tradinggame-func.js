@@ -184,33 +184,24 @@
 
       // Helper: Bayesian update
       function p_hat(p, z, omega, ch) {
-        const num = Math.pow(0.5 + ch, z) * Math.pow(0.5 - ch, 1 - z) * p;
-        const denom =
-          num + Math.pow(0.5 - ch, z) * Math.pow(0.5 + ch, 1 - z) * (1 - p);
+        const num = (0.5 + ch) ** z * (0.5 - ch) ** (1 - z) * p;
+        const denom = num + (0.5 - ch) ** z * (0.5 + ch) ** (1 - z) * (1 - p);
         return num / denom;
       }
-
       function p_update(p, z, omega, gamma, ch) {
         const prob = p_hat(p, z, omega, ch);
         const change = q * gamma;
         return (1 - change) * prob + change * (1 - prob);
       }
 
-      // Process each block of 40 separately
-      for (let start = 0; start < P_list.length; start += 41) {
-        const end = Math.min(start + 40, P_list.length);
-        const block = P_list.slice(start, end);
-        let p = 0.5;
-        let up;
-        const block_probs = [parseFloat(p.toFixed(4))]; // first element in block
+      // Start at p=0.5, then walk the whole list:
+      let p = 0.5;
+      increase_probs.push(parseFloat(p.toFixed(4)));
 
-        for (let i = 1; i < block.length; i++) {
-          const z = block[i] > block[i - 1] ? 1 : 0;
-          p = p_update(p, z, omega, gamma, ch); // this is only the probability of being in the good state, need to adjust for price increase
-          block_probs.push(parseFloat(p.toFixed(4)));
-        }
-
-        increase_probs.push(...block_probs);
+      for (let i = 1; i < P_list.length; i++) {
+        const z = P_list[i] > P_list[i - 1] ? 1 : 0;
+        p = p_update(p, z, omega, gamma, ch);
+        increase_probs.push(parseFloat(p.toFixed(4)));
       }
 
       return increase_probs;
