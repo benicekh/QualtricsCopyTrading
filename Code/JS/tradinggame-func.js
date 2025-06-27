@@ -457,6 +457,7 @@
       DATA.OngoingReturn = [];
       SCREENELEMENTS.decision_sellbutton.classList.add("unavailable");
       SCREENELEMENTS.decision_nextbutton_show_info.classList.add("hidden");
+      SCREENELEMENTS.decision_return.textContent = roundData.cash;
       if (Stages[0].stage === "regular") {
         if (treatment === 1) {
           document.getElementById("rounddata").classList.remove("hidden");

@@ -77069,6 +77069,7 @@ const initialize = function () {
   DATA.OngoingReturn = [];
   SCREENELEMENTS.decision_sellbutton.classList.add("unavailable");
   SCREENELEMENTS.decision_nextbutton_show_info.classList.add("hidden");
+  SCREENELEMENTS.decision_return.textContent = roundData.cash;
   if (Stages[0].stage === "regular") {
     if (treatment === 1) {
       document.getElementById("rounddata").classList.remove("hidden");
@@ -78042,7 +78043,7 @@ const initializePhase = function () {
   SCREENELEMENTS.decision_shares_label.textContent = "Shares:";
   SCREENELEMENTS.decision_sellbutton.classList.add("exBUTTON--unavailable");
   SCREENELEMENTS.decision_return_label.textContent = "Wealth:";
-  SCREENELEMENTS.decision_return.textContent = " 0";
+  SCREENELEMENTS.decision_return.textContent = "2500";
   if (treatment == 1) {
     SCREENELEMENTS.copy_data_screen.classList.add("hidden");
   } else if (treatment == 2) {
