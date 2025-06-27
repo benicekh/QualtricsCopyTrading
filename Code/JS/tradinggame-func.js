@@ -211,7 +211,7 @@
     function priceUp(p, ch) {
       let up;
       up = (8 * p * ch + 2 - 4 * ch) / 4;
-      return up.toFixed(2);
+      return (up * 100).toFixed(2);
     }
 
     /// Random or sequential picking of price path
