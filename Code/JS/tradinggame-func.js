@@ -17,6 +17,8 @@
     pricePaths = JSON.parse(
       Qualtrics.SurveyEngine.getEmbeddedData("pricepaths")
     );
+
+    /*
     const pricePathsCRRA = {};
     pricePathsCRRA.Elicitation = [
       250.0, 265.0, 255.0, 240.0, 235.0, 230.0, 235.0, 240.0, 255.0, 245.0,
@@ -26,6 +28,12 @@
       140.0, 125.0, 140.0, 150.0, 155.0, 165.0, 175.0, 180.0, 190.0, 200.0,
       205.0,
     ];
+    */
+
+    let pricePathsCRRA;
+    pricePathsCRRA = JSON.parse(
+      Qualtrics.SurveyEngine.getEmbeddedData("pricePathsCRRA")
+    );
 
     let dataTraining;
     dataTraining = JSON.parse(
