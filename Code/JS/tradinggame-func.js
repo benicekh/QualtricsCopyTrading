@@ -161,7 +161,7 @@
 
     var rounds = 41;
     if (treatment == 1) {
-      rounds = 51;
+      rounds = 41;
     }
     var currentround = roundDataStart.round;
     /// Stages object Training/Treatment
@@ -1416,7 +1416,7 @@
         if (i <= 4) continue;
 
         // Skip rounds where r == 40
-        if (round.r <= 9 || round.r === 50) continue;
+        if (round.r < -1 || round.r === 40) continue;
 
         const a = round.a;
         const p = round.p;
