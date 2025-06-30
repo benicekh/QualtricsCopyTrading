@@ -1745,7 +1745,7 @@
           Qualtrics.SurveyEngine.getEmbeddedData("treatment")
         );
         if (treatment == 1) {
-          maxPhases = 1;
+          maxPhases = 2;
         } else {
           maxPhases = 10;
         }
