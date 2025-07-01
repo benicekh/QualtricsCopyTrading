@@ -84,7 +84,7 @@ var roundDataNew = roundData;
 const trainingrounds = 5;
 var rounds = 41;
 if (treatment == 1) {
-  rounds = 51;
+  rounds = 41;
 }
 
 console.log(rounds);
@@ -78111,7 +78111,7 @@ const ChartController = function (nrounds, startprice) {
       showgrid: true,
     },
     xaxis: {
-      title: "Period",
+      title: "Round",
       titlefont: {
         size: 15,
         color: "black",

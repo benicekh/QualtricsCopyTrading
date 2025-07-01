@@ -1527,7 +1527,7 @@
           showgrid: true,
         },
         xaxis: {
-          title: "Period",
+          title: "Rounds",
           titlefont: {
             size: 15,
             color: "black",
