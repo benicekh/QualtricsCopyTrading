@@ -1380,7 +1380,10 @@
             roundDataStart.cash + gainValue
           );
 
-          Qualtrics.SurveyEngine.setEmbeddedData("WinningRound", winningIndex);
+          var key =
+            treatment === 1 ? "ElicitationWinningRound" : "WinningRound";
+          Qualtrics.SurveyEngine.setEmbeddedData(key, winningIndex);
+
           Qualtrics.SurveyEngine.setEmbeddedData(
             "Endowment",
             roundDataStart.cash
