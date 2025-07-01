@@ -1,4 +1,5 @@
-const TLs = {
+window.TLs = {}
+TLs = {
 	0: {
 		stage_0: {
 			"rank_1": 50.0,
