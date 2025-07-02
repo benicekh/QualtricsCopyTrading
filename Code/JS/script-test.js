@@ -77790,7 +77790,7 @@ const nextPhase = function () {
 
         const result = nelderMeadOptimize(
           ([r, lambda]) => {
-            if (lambda <= 0 || r < -5 || r > 10) return Infinity;
+            if (lambda <= 0 || lambda > 50 || r < -5 || r > 15) return Infinity;
             return -logLikelihoodReal(realData, r, lambda);
           },
           [-1.5, 2.0] // Initial guess
