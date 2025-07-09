@@ -1765,8 +1765,6 @@
 
       //Attempts to paste the output into the
       this.writeData = function (data) {
-        // Make sure we’re comparing numbers (or change to String() if treatment comes in as a string)
-        var treatment = Number(treatment);
         console.log("treatment: ", treatment, typeof treatment);
         console.log("treatment === 1: ", treatment === 1);
 
