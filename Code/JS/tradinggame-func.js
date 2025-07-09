@@ -1767,6 +1767,8 @@
       this.writeData = function (data) {
         // Make sure we’re comparing numbers (or change to String() if treatment comes in as a string)
         var treatment = Number(treatment);
+        console.log("treatment: ", treatment, typeof treatment);
+        console.log("treatment === 1: ", treatment === 1);
 
         // Choose the embedded-data field based on treatment
         var key = treatment === 1 ? "DataElicitation" : "Data";
