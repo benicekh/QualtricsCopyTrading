@@ -1224,7 +1224,7 @@
                   return Infinity;
                 return -logLikelihoodReal(realData, r, lambda);
               },
-              [hardmaxRealResult.bestR.toFixed(3), 2.0] // Initial guess
+              [hardmaxRealResult.bestR, 2.0] // Initial guess
             );
 
             /**
