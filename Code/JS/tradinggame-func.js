@@ -1771,6 +1771,8 @@
 
         if (inQualtrics) {
           Qualtrics.SurveyEngine.setEmbeddedData(key, JSON.stringify(data));
+          console.warn("Stored Data:");
+          console.log(key + ": ", data);
         } else {
           console.warn("Failed to write data, as we're not in Qualtrics");
           console.log(key + ": ", data);
