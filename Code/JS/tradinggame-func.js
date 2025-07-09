@@ -1361,6 +1361,8 @@
           }
 
           QM.writeData(DATA);
+          console.log("Here it should push Data");
+          console.log(DATA);
           let gainValue =
             DATA.stagesummaries &&
             DATA.stagesummaries[winningIndex] &&
