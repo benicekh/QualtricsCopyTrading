@@ -1198,13 +1198,33 @@
               };
             }
 
+            function estimateRfromHardmaxReal(
+              data,
+              rMin = -2.5,
+              rMax = 8,
+              step = 0.05
+            ) {
+              let bestR = rMin;
+              let bestScore = -1;
+              for (let r = rMin; r <= rMax; r += step) {
+                const score = countMatchesReal(data, r);
+                if (score > bestScore) {
+                  bestScore = score;
+                  bestR = r;
+                }
+              }
+              return { bestR, bestScore };
+            }
+
+            const hardmaxRealResult = estimateRfromHardmaxReal(realData);
+
             const result = nelderMeadOptimize(
               ([r, lambda]) => {
                 if (lambda <= 0 || lambda > 50 || r < -5 || r > 15)
                   return Infinity;
                 return -logLikelihoodReal(realData, r, lambda);
               },
-              [-1.5, 2.0] // Initial guess
+              [hardmaxRealResult.bestR.toFixed(3), 2.0] // Initial guess
             );
 
             /**
@@ -1322,25 +1342,6 @@
 
             Qualtrics.SurveyEngine.setEmbeddedData("CRRA", rCategory);
 
-            function estimateRfromHardmaxReal(
-              data,
-              rMin = -2.5,
-              rMax = 8,
-              step = 0.05
-            ) {
-              let bestR = rMin;
-              let bestScore = -1;
-              for (let r = rMin; r <= rMax; r += step) {
-                const score = countMatchesReal(data, r);
-                if (score > bestScore) {
-                  bestScore = score;
-                  bestR = r;
-                }
-              }
-              return { bestR, bestScore };
-            }
-
-            const hardmaxRealResult = estimateRfromHardmaxReal(realData);
             console.log(
               "=== Hardmax Estimation from Real Data (Match Count) ==="
             );
