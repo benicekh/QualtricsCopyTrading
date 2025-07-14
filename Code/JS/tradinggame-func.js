@@ -1052,7 +1052,7 @@
             function utility(w, r) {
               w = w / scaleFactor;
               if (w <= 0) return -Infinity;
-              if (r === 1) return Math.log(w);
+              if (Math.abs(r - 1) < 1e-8) return Math.log(w);
               return (Math.pow(w, 1 - r) - 1) / (1 - r);
             }
 
