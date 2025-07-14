@@ -1035,7 +1035,7 @@
           if (treatment != 3) {
             const ks = [5, 10, 15];
             const ch = 0.15;
-            const scaleFactor = 1000;
+            const scaleFactor = 10000;
 
             const { E_list, P_list, increase_probs, s_obs_list } =
               generateEstimationLists(DATA);
