@@ -167,6 +167,9 @@ for _, row in panel_df.iterrows():
 
     if row['phaseName'] == 'training':
         continue  # Skip row if phaseName is "training"
+        
+    if row['path'] == 'training':
+        continue  # Skip row if path is "training"
 
     if row['nameTreatment'] == "1":
         row['pathoption'] = int(row['pathoption'])
@@ -179,7 +182,9 @@ for _, row in panel_df.iterrows():
         ra = row['TLrank']
         phase_key = f"stage_{st}"
         
-        
+        print(ps)
+        print(phase_key)
+        print(ra)
         data_rank[1][ps][phase_key][ra] += 1
         data_copier[1][ps][phase_key][tl] += 1
     else:
@@ -193,7 +198,10 @@ for _, row in panel_df.iterrows():
         ra = row['TLrank']
         phase_key = f"stage_{st}"
         
-        
+        print(ps)
+        print(phase_key)
+        print(ra)
+        print(row)
         data_rank[0][ps][phase_key][ra] += 1
         data_copier[0][ps][phase_key][tl] += 1
         
