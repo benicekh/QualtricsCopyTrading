@@ -13,6 +13,7 @@ import os
 import pandas as pd
 import re
 import pickle
+from decimal import Decimal, ROUND_HALF_UP
 #from mpmath import *
 #mp.dps=300
 
@@ -152,15 +153,21 @@ def assetsBought(c, p, eta, a_max):
     asset = max(max_index) if max_index else 0
     return asset
 
+def js_round(x, ndigits=2):
+    """Round like JavaScript: .5 always rounds up."""
+    factor = Decimal('1e{}'.format(-ndigits))
+    return float(Decimal(str(x)).quantize(factor, rounding=ROUND_HALF_UP))
+
 def round_var(var):
     if isinstance(var, (float, np.floating)):
-        return round(var, 2)
+        return js_round(var, 2)
     
     # Convert to NumPy array for consistency
     var = np.asarray(var, dtype=np.float64)
-
-    # Round and return in the same shape
-    return np.round(var, 2)
+    
+    # Apply js_round element-wise
+    vectorized_round = np.vectorize(js_round)
+    return vectorized_round(var)
 
 def create_bots(num_players,num_series, column_names):
     data = {}
